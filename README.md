@@ -10,11 +10,11 @@ Checkout out [my blog](https://www.colinodell.com/blog) or [follow @colinodell o
 
 <!-- recent_releases starts -->
 * [commonmark 1.5.1](https://github.com/thephpleague/commonmark/releases/tag/1.5.1) - 2020-06-27
+* [php-coding-standard v2.2.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.2.1) - 2020-06-27
 * [commonmark-extras 1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0) - 2020-04-04
 * [go-check-ssl v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0) - 2020-02-02
 * [ansible-role-newrelic-php 1.0.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.0.0) - 2019-10-16
 * [commonmark-ext-table v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0) - 2019-09-26
-* [json5 v2.1.0](https://github.com/colinodell/json5/releases/tag/v2.1.0) - 2019-03-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
