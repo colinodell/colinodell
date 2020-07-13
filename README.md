@@ -1,4 +1,4 @@
-## Colin O'Dell
+![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
 
 **Hi, I'm Colin** -- the Director of Technology at [Unleashed Technologies](https://www.unleashed-technologies.com/), where I'm responsible for identifying and implementing technologies and best-practices that provide exceptional experiences to our clients and their end-users.
 
