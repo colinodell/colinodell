@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->17<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)**: [1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
+<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.1](https://github.com/thephpleague/commonmark/releases/tag/1.5.1) - 2020-06-27
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.2.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.2.1) - 2020-06-27
