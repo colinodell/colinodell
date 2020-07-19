@@ -9,8 +9,8 @@ Checkout out [my blog](https://www.colinodell.com/blog) or [follow @colinodell o
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
+* [commonmark 1.5.3](https://github.com/thephpleague/commonmark/releases/tag/1.5.3) - 2020-07-19
 * [mqtt-control-panel 1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
-* [commonmark 1.5.1](https://github.com/thephpleague/commonmark/releases/tag/1.5.1) - 2020-06-27
 * [php-coding-standard v2.2.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.2.1) - 2020-06-27
 * [commonmark-extras 1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0) - 2020-04-04
 * [go-check-ssl v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0) - 2020-02-02
