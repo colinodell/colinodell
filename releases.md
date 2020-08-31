@@ -3,12 +3,12 @@
 All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.3.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.3.0) - 2020-08-31
+<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.4](https://github.com/thephpleague/commonmark/releases/tag/1.5.4) - 2020-08-18
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)**: [1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
 <br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.2.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.2.1) - 2020-06-27
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[commonmark-extras](https://github.com/thephpleague/commonmark-extras)**: [1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0) - 2020-04-04
 <br>Useful extensions for the league/commonmark parser
 * **[go-check-ssl](https://github.com/colinodell/go-check-ssl)**: [v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0) - 2020-02-02
