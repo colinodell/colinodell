@@ -3,7 +3,7 @@
 All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.5](https://github.com/thephpleague/commonmark/releases/tag/1.5.5) - 2020-09-13
+* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.6](https://github.com/thephpleague/commonmark/releases/tag/1.5.6) - 2020-10-17
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.5.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.5.0) - 2020-09-08
 <br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
