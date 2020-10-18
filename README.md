@@ -9,12 +9,12 @@ Checkout out [my blog](https://www.colinodell.com/blog) or [follow @colinodell o
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
+* [phpstorm-colors 0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
 * [home-assistant-ozwdev 0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
 * [franz-twitch 1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0) - 2020-10-18
 * [packagist-download-counter 1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0) - 2020-10-18
 * [commonmark 1.5.6](https://github.com/thephpleague/commonmark/releases/tag/1.5.6) - 2020-10-17
 * [php-coding-standard v2.5.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.5.0) - 2020-09-08
-* [mqtt-control-panel 1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 

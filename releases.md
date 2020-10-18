@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->21<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->22<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[phpstorm-colors](https://github.com/colinodell/phpstorm-colors)**: [0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
+<br>My custom color scheme for PhpStorm
 * **[home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)**: [0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
 <br>Home Assistant images for Docker using the dev branch of openzwave
 * **[franz-twitch](https://github.com/colinodell/franz-twitch)**: [1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0) - 2020-10-18
