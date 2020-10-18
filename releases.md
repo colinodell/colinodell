@@ -1,8 +1,14 @@
 # Released projects
 
-All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->21<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)**: [0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
+<br>Home Assistant images for Docker using the dev branch of openzwave
+* **[franz-twitch](https://github.com/colinodell/franz-twitch)**: [1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0) - 2020-10-18
+<br>Twitch recipe for Franz 5
+* **[packagist-download-counter](https://github.com/colinodell/packagist-download-counter)**: [1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0) - 2020-10-18
+<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.6](https://github.com/thephpleague/commonmark/releases/tag/1.5.6) - 2020-10-17
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.5.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.5.0) - 2020-09-08
