@@ -3,6 +3,8 @@
 All <!-- release_count starts -->22<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.6.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.6.0) - 2020-10-25
+<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[phpstorm-colors](https://github.com/colinodell/phpstorm-colors)**: [0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
 <br>My custom color scheme for PhpStorm
 * **[home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)**: [0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
@@ -13,8 +15,6 @@ All <!-- release_count starts -->22<!-- release_count ends --> of my released pr
 <br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.6](https://github.com/thephpleague/commonmark/releases/tag/1.5.6) - 2020-10-17
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.5.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.5.0) - 2020-09-08
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)**: [1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
 <br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
 * **[commonmark-extras](https://github.com/thephpleague/commonmark-extras)**: [1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0) - 2020-04-04
