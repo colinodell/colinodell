@@ -3,12 +3,12 @@
 All <!-- release_count starts -->22<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.6.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.6.1) - 2021-01-30
+<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[json5](https://github.com/colinodell/json5)**: [v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0) - 2020-11-29
 <br>UTF-8 compatible JSON5 parser for PHP
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.7](https://github.com/thephpleague/commonmark/releases/tag/1.5.7) - 2020-10-31
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.6.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.6.0) - 2020-10-25
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[phpstorm-colors](https://github.com/colinodell/phpstorm-colors)**: [0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
 <br>My custom color scheme for PhpStorm
 * **[home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)**: [0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
