@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->22<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->23<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)**: [v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
+<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.6.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.6.1) - 2021-01-30
 <br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[json5](https://github.com/colinodell/json5)**: [v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0) - 2020-11-29
