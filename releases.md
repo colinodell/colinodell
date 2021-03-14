@@ -3,6 +3,8 @@
 All <!-- release_count starts -->23<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[python-qnapstats](https://github.com/colinodell/python-qnapstats)**: [0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
+<br>Python API for obtaining QNAP NAS system stats
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.7.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.7.0) - 2021-03-05
 <br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)**: [v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
@@ -33,8 +35,6 @@ All <!-- release_count starts -->23<!-- release_count ends --> of my released pr
 <br>phpcs sniffs for Magento
 * **[phpversions.info](https://github.com/phpversions/phpversions.info)**: [0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1) - 2019-01-20
 <br>Which hosts support which PHP versions, and which is default
-* **[python-qnapstats](https://github.com/colinodell/python-qnapstats)**: [0.3.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.0) - 2018-11-18
-<br>Python API for obtaining QNAP NAS system stats
 * **[omnipay-bundle](https://github.com/colinodell/omnipay-bundle)**: [v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0) - 2018-09-25
 <br>Omnipay bundle for Symfony 2.3+ and 3.0+
 * **[gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)**: [1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0) - 2018-09-25
