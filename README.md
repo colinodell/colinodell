@@ -9,11 +9,11 @@ Checkout out [my blog](https://www.colinodell.com/blog) or [follow @colinodell o
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
+* [commonmark 1.5.8](https://github.com/thephpleague/commonmark/releases/tag/1.5.8) - 2021-03-28
 * [python-qnapstats 0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
 * [php-coding-standard v2.7.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.7.0) - 2021-03-05
 * [ansible-role-prtg-mini-probe v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
 * [json5 v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0) - 2020-11-29
-* [commonmark 1.5.7](https://github.com/thephpleague/commonmark/releases/tag/1.5.7) - 2020-10-31
 * [phpstorm-colors 0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
