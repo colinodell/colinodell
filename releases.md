@@ -3,6 +3,8 @@
 All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
+<br>Zero-amount payment driver for Omnipay
 * **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: [5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
 <br>Convert HTML to Markdown with PHP
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.8](https://github.com/thephpleague/commonmark/releases/tag/1.5.8) - 2021-03-28
@@ -41,8 +43,6 @@ All <!-- release_count starts -->24<!-- release_count ends --> of my released pr
 <br>Omnipay bundle for Symfony 2.3+ and 3.0+
 * **[gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)**: [1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0) - 2018-09-25
 <br>Checks whether files have the correct line endings
-* **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0-beta.1](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0-beta.1) - 2018-04-18
-<br>Zero-amount payment driver for Omnipay
 * **[migrations-php5.3](https://github.com/colinodell/migrations-php5.3)**: [v1.2.2](https://github.com/colinodell/migrations-php5.3/releases/tag/v1.2.2) - 2017-11-22
 <br>Doctrine Database Migrations Library
 * **[php-ipv4](https://github.com/colinodell/php-ipv4)**: [1.0.0](https://github.com/colinodell/php-ipv4/releases/tag/1.0.0) - 2017-07-13
