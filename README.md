@@ -2,9 +2,11 @@
 
 **Hi, I'm Colin** -- the Director of Technology at [Unleashed Technologies](https://www.unleashed-technologies.com/), where I'm responsible for identifying and implementing technologies and best-practices that provide exceptional experiences to our clients and their end-users.
 
-When I'm not solving challenges at work, you can usually find me [working on random projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
+When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
-Checkout out [my blog](https://www.colinodell.com/blog) or [follow @colinodell on Twitter](https://twitter.com/colinodell).
+I also have an [online store selling developer t-shirts, mugs, and more](https://moderngeekware.com/)!
+
+Check out out [my blog](https://www.colinodell.com/blog) or [follow @colinodell on Twitter](https://twitter.com/colinodell).
 
 ### Recent open-source releases
 
