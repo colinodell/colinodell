@@ -4,9 +4,16 @@
 
 When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
-I also have an [online store selling developer t-shirts, mugs, and more](https://moderngeekware.com/)!
-
 Check out out [my blog](https://www.colinodell.com/blog) or [follow @colinodell on Twitter](https://twitter.com/colinodell).
+
+### Popular projects
+
+* **[ModernGeekware.com](https://www.moderngeekware.com/)**: my online store [developer t-shirts, mugs, and more](https://www.moderngeekware.com/)
+* **[league/commonmark](https://commonmark.thephpleague.com/)**: Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs
+* **[json5](https://github.com/colinodell/json5)**: UTF-8 compatible JSON5 parser for PHP
+* **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: Convert HTML to Markdown with PHP
+
+More [projects](https://www.colinodell.com/projects)
 
 ### Recent open-source releases
 
