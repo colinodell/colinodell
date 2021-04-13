@@ -3,6 +3,8 @@
 All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
+<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
 <br>Zero-amount payment driver for Omnipay
 * **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: [5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
@@ -11,8 +13,6 @@ All <!-- release_count starts -->24<!-- release_count ends --> of my released pr
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[python-qnapstats](https://github.com/colinodell/python-qnapstats)**: [0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
 <br>Python API for obtaining QNAP NAS system stats
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v2.7.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v2.7.0) - 2021-03-05
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)**: [v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
 <br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[json5](https://github.com/colinodell/json5)**: [v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0) - 2020-11-29
