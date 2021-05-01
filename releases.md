@@ -3,14 +3,14 @@
 All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.6.0](https://github.com/thephpleague/commonmark/releases/tag/1.6.0) - 2021-05-01
+<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
 <br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
 <br>Zero-amount payment driver for Omnipay
 * **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: [5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
 <br>Convert HTML to Markdown with PHP
-* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.5.8](https://github.com/thephpleague/commonmark/releases/tag/1.5.8) - 2021-03-28
-<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[python-qnapstats](https://github.com/colinodell/python-qnapstats)**: [0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
 <br>Python API for obtaining QNAP NAS system stats
 * **[ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)**: [v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07

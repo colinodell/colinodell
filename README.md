@@ -18,10 +18,10 @@ More [projects](https://www.colinodell.com/projects)
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
+* [commonmark 1.6.0](https://github.com/thephpleague/commonmark/releases/tag/1.6.0) - 2021-05-01
 * [php-coding-standard v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
 * [omnipay-zero v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
 * [html-to-markdown 5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
-* [commonmark 1.5.8](https://github.com/thephpleague/commonmark/releases/tag/1.5.8) - 2021-03-28
 * [python-qnapstats 0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
 * [ansible-role-prtg-mini-probe v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
 <!-- recent_releases ends -->
