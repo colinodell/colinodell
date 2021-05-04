@@ -3,6 +3,8 @@
 All <!-- release_count starts -->24<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)**: [1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
+<br>Installs the New Relic PHP agent onto Debian servers
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.6.0](https://github.com/thephpleague/commonmark/releases/tag/1.6.0) - 2021-05-01
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
@@ -31,8 +33,6 @@ All <!-- release_count starts -->24<!-- release_count ends --> of my released pr
 <br>Useful extensions for the league/commonmark parser
 * **[go-check-ssl](https://github.com/colinodell/go-check-ssl)**: [v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0) - 2020-02-02
 <br>Simple command line utility to check the status of an SSL certificate
-* **[ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)**: [1.0.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.0.0) - 2019-10-16
-<br>Installs the New Relic PHP agent onto Debian servers
 * **[commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)**: [v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0) - 2019-09-26
 <br>The table extension for CommonMark PHP implementation
 * **[phpcs-magento](https://github.com/colinodell/phpcs-magento)**: [v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0) - 2019-03-07
