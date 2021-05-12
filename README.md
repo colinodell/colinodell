@@ -18,7 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
-* [commonmark 1.6.1](https://github.com/thephpleague/commonmark/releases/tag/1.6.1) - 2021-05-08
+* [commonmark 1.6.2](https://github.com/thephpleague/commonmark/releases/tag/1.6.2) - 2021-05-12
 * [ansible-role-newrelic-php 1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
 * [php-coding-standard v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
 * [omnipay-zero v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
