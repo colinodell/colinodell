@@ -3,14 +3,14 @@
 All <!-- release_count starts -->25<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0) - 2021-06-06
+<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[config](https://github.com/thephpleague/config)**: [v1.0.1](https://github.com/thephpleague/config/releases/tag/v1.0.1) - 2021-05-31
 <br>Simple yet expressive schema-based configuration library for PHP apps
 * **[commonmark](https://github.com/thephpleague/commonmark)**: [1.6.2](https://github.com/thephpleague/commonmark/releases/tag/1.6.2) - 2021-05-12
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)**: [1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
 <br>Installs the New Relic PHP agent onto Debian servers
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0) - 2021-04-13
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
 <br>Zero-amount payment driver for Omnipay
 * **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: [5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
