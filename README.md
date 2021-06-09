@@ -30,7 +30,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### From my blog
 
 <!-- blog starts -->
-
+* [league/commonmark 1.6.0 Released!](https://www.colinodell.com/blog/202105/leaguecommonmark-160-released) - 2021-05-01
+* [PHP 8.1 is Getting Enumerations!](https://www.colinodell.com/blog/202102/php-81-getting-enumerations) - 2021-02-17
+* [Introducing ModernGeekware.com - Tees, Mugs, and more for Developers and Geeks](https://www.colinodell.com/blog/202101/introducing-moderngeekwarecom-tees-mugs-and-more-developers-and-geeks) - 2021-01-31
+* [How To Install PHP 8.0](https://www.colinodell.com/blog/202011/how-install-php-80) - 2020-11-28
+* [Using Both Composer 1 and Composer 2](https://www.colinodell.com/blog/202010/using-both-composer-1-and-composer-2) - 2020-10-26
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
 
