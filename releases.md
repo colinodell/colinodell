@@ -3,7 +3,7 @@
 All <!-- release_count starts -->25<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.6.3](https://github.com/thephpleague/commonmark/releases/tag/1.6.3) - 2021-06-19
+* **[commonmark](https://github.com/thephpleague/commonmark)**: [1.6.4](https://github.com/thephpleague/commonmark/releases/tag/1.6.4) - 2021-06-19
 <br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[config](https://github.com/thephpleague/config)**: [v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0) - 2021-06-19
 <br>Simple yet expressive schema-based configuration library for PHP apps
