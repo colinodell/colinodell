@@ -18,7 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Recent open-source releases
 
 <!-- recent_releases starts -->
-* [commonmark 1.6.4](https://github.com/thephpleague/commonmark/releases/tag/1.6.4) - 2021-06-19
+* [commonmark 2.0.0-beta1](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta1) - 2021-06-20
 * [config v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0) - 2021-06-19
 * [php-coding-standard v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0) - 2021-06-06
 * [ansible-role-newrelic-php 1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
