@@ -1,56 +1,46 @@
 # Released projects
 
-All <!-- release_count starts -->25<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->40<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[commonmark](https://github.com/thephpleague/commonmark)**: [2.0.0-beta1](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta1) - 2021-06-20
-<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[config](https://github.com/thephpleague/config)**: [v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0) - 2021-06-19
-<br>Simple yet expressive schema-based configuration library for PHP apps
-* **[php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**: [v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0) - 2021-06-06
-<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
-* **[ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)**: [1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
-<br>Installs the New Relic PHP agent onto Debian servers
-* **[omnipay-zero](https://github.com/colinodell/omnipay-zero)**: [v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
-<br>Zero-amount payment driver for Omnipay
-* **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: [5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
-<br>Convert HTML to Markdown with PHP
-* **[python-qnapstats](https://github.com/colinodell/python-qnapstats)**: [0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1) - 2021-03-14
-<br>Python API for obtaining QNAP NAS system stats
-* **[ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)**: [v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0) - 2021-02-07
-<br>Installs the PRTG Mini Probe onto Debian-based systems.
-* **[json5](https://github.com/colinodell/json5)**: [v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0) - 2020-11-29
-<br>UTF-8 compatible JSON5 parser for PHP
-* **[phpstorm-colors](https://github.com/colinodell/phpstorm-colors)**: [0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0) - 2020-10-18
-<br>My custom color scheme for PhpStorm
-* **[home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)**: [0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1) - 2020-10-18
-<br>Home Assistant images for Docker using the dev branch of openzwave
-* **[franz-twitch](https://github.com/colinodell/franz-twitch)**: [1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0) - 2020-10-18
-<br>Twitch recipe for Franz 5
-* **[packagist-download-counter](https://github.com/colinodell/packagist-download-counter)**: [1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0) - 2020-10-18
-<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
-* **[mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)**: [1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0) - 2020-07-14
-<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
-* **[commonmark-extras](https://github.com/thephpleague/commonmark-extras)**: [1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0) - 2020-04-04
-<br>Useful extensions for the league/commonmark parser
-* **[go-check-ssl](https://github.com/colinodell/go-check-ssl)**: [v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0) - 2020-02-02
-<br>Simple command line utility to check the status of an SSL certificate
-* **[commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)**: [v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0) - 2019-09-26
-<br>The table extension for CommonMark PHP implementation
-* **[phpcs-magento](https://github.com/colinodell/phpcs-magento)**: [v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0) - 2019-03-07
-<br>phpcs sniffs for Magento
-* **[phpversions.info](https://github.com/phpversions/phpversions.info)**: [0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1) - 2019-01-20
-<br>Which hosts support which PHP versions, and which is default
-* **[omnipay-bundle](https://github.com/colinodell/omnipay-bundle)**: [v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0) - 2018-09-25
-<br>Omnipay bundle for Symfony 2.3+ and 3.0+
-* **[gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)**: [1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0) - 2018-09-25
-<br>Checks whether files have the correct line endings
-* **[migrations-php5.3](https://github.com/colinodell/migrations-php5.3)**: [v1.2.2](https://github.com/colinodell/migrations-php5.3/releases/tag/v1.2.2) - 2017-11-22
-<br>Doctrine Database Migrations Library
-* **[php-ipv4](https://github.com/colinodell/php-ipv4)**: [1.0.0](https://github.com/colinodell/php-ipv4/releases/tag/1.0.0) - 2017-07-13
-<br>Small set of classes for identifying and enumerating IPv4 addresses and subnets in PHP
-* **[AdafruitSerialRGBLCD](https://github.com/colinodell/AdafruitSerialRGBLCD)**: [0.3.1](https://github.com/colinodell/AdafruitSerialRGBLCD/releases/tag/0.3.1) - 2017-03-06
-<br>Firmware library for Adafruit's USB + Serial Backpack Kit with 16x2 RGB LCD
-* **[cloud-to-butt](https://github.com/colinodell/cloud-to-butt)**: [0.1.0](https://github.com/colinodell/cloud-to-butt/releases/tag/0.1.0) - 2017-02-04
-<br>PSR-7 middleware for changing "cloud" to "butt"
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0-beta1](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta1), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.4](https://github.com/thephpleague/commonmark/releases/tag/1.6.4), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 2 days ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 2 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.0.1](https://github.com/thephpleague/config/releases/tag/v1.0.1), 3 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 2 months ago)<br>Installs the New Relic PHP agent onto Debian servers
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.0.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.0.0), 2 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
+* **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 3 months ago)<br>Zero-amount payment driver for Omnipay
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0), 3 months ago)<br>Convert HTML to Markdown with PHP
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1), 3 months ago)<br>Python API for obtaining QNAP NAS system stats
+* **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 4 months ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
+* **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 4 months ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0), 7 months ago)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/phpstorm-colors](https://github.com/colinodell/phpstorm-colors)** ([0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0), 8 months ago)<br>My custom color scheme for PhpStorm
+* **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.51.0](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.51.0), 8 months ago)<br>Home Assistant images for Docker using the dev branch of openzwave
+* **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1), 8 months ago)<br>Home Assistant images for Docker using the dev branch of openzwave
+* **[colinodell/franz-twitch](https://github.com/colinodell/franz-twitch)** ([1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0), 8 months ago)<br>Twitch recipe for Franz 5
+* **[colinodell/packagist-download-counter](https://github.com/colinodell/packagist-download-counter)** ([1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0), 8 months ago)<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
+* **[colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)** ([1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0), 11 months ago)<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([4.10.0](https://github.com/thephpleague/html-to-markdown/releases/tag/4.10.0), 12 months ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0), 1 years ago)<br>Useful extensions for the league/commonmark parser
+* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.1.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.1.0), 1 years ago)<br>Simple command line utility to check the status of an SSL certificate
+* **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.0.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.0.0), 2 years ago)<br>Installs the New Relic PHP agent onto Debian servers
+* **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 2 years ago)<br>The table extension for CommonMark PHP implementation
+* **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 2 years ago)<br>The table extension for CommonMark PHP implementation
+* **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 2 years ago)<br>Useful extensions for the league/commonmark parser
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.1.0](https://github.com/colinodell/json5/releases/tag/v2.1.0), 2 years ago)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 2 years ago)<br>phpcs sniffs for Magento
+* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)** ([0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1), 2 years ago)<br>Which hosts support which PHP versions, and which is default
+* **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0), 3 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
+* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0), 3 years ago)<br>Checks whether files have the correct line endings
+* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v1.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v1.0.0), 3 years ago)<br>phpcs sniffs for Magento
+* **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0-beta.1](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0-beta.1), 3 years ago)<br>Zero-amount payment driver for Omnipay
+* **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v1.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v1.0.0), 3 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
+* **[colinodell/migrations-php5.3](https://github.com/colinodell/migrations-php5.3)** ([v1.2.2](https://github.com/colinodell/migrations-php5.3/releases/tag/v1.2.2), 4 years ago)<br>Doctrine Database Migrations Library
+* **[colinodell/php-ipv4](https://github.com/colinodell/php-ipv4)** ([1.0.0](https://github.com/colinodell/php-ipv4/releases/tag/1.0.0), 4 years ago)<br>Small set of classes for identifying and enumerating IPv4 addresses and subnets in PHP
+* **[colinodell/AdafruitSerialRGBLCD](https://github.com/colinodell/AdafruitSerialRGBLCD)** ([0.3.1](https://github.com/colinodell/AdafruitSerialRGBLCD/releases/tag/0.3.1), 4 years ago)<br>Firmware library for Adafruit's USB + Serial Backpack Kit with 16x2 RGB LCD
+* **[colinodell/cloud-to-butt](https://github.com/colinodell/cloud-to-butt)** ([0.1.0](https://github.com/colinodell/cloud-to-butt/releases/tag/0.1.0), 4 years ago)<br>PSR-7 middleware for changing "cloud" to "butt"
+* **[colinodell/AdafruitSerialRGBLCD](https://github.com/colinodell/AdafruitSerialRGBLCD)** ([0.3.0](https://github.com/colinodell/AdafruitSerialRGBLCD/releases/tag/0.3.0), 4 years ago)<br>Firmware library for Adafruit's USB + Serial Backpack Kit with 16x2 RGB LCD
+* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([0.1.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/0.1.0), 6 years ago)<br>Checks whether files have the correct line endings
 <!-- recent_releases ends -->

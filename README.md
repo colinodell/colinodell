@@ -15,17 +15,28 @@ Check out out [my blog](https://www.colinodell.com/blog) or [follow @colinodell 
 
 More [projects](https://www.colinodell.com/projects)
 
-### Recent open-source releases
+### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* [commonmark 2.0.0-beta1](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta1) - 2021-06-20
-* [config v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0) - 2021-06-19
-* [php-coding-standard v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0) - 2021-06-06
-* [ansible-role-newrelic-php 1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0) - 2021-05-04
-* [omnipay-zero v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0) - 2021-04-02
-* [html-to-markdown 5.0.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.0) - 2021-03-29
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0-beta1](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta1), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.4](https://github.com/thephpleague/commonmark/releases/tag/1.6.4), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 2 days ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 2 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.0.1](https://github.com/thephpleague/config/releases/tag/v1.0.1), 3 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 2 months ago)<br>Installs the New Relic PHP agent onto Debian servers
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
+
+### Recent contributions
+
+<!-- recent_contributions starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
+* **[thephpleague/thephpleague.github.io](https://github.com/thephpleague/thephpleague.github.io)**
+* **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
+<!-- recent_contributions ends -->
 
 ### From my blog
 
@@ -37,5 +48,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * [How To Install PHP 8.0](https://www.colinodell.com/blog/202011/how-install-php-80) - 2020-11-28
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
+
+### Personal Stats
+
+<img align="right" alt="colinodell's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinodell&count_private=0&show_icons=true&" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinodell&exclude_repo=mcforge)
 
 <a href="https://github.com/colinodell/colinodell/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
