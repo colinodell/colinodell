@@ -41,11 +41,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### From my blog
 
 <!-- blog starts -->
+* [league/commonmark 2.0.0-beta2 now available for testing](https://www.colinodell.com/blog/202106/leaguecommonmark-200beta2-now-available-testing) - 2021-06-27
 * [Fixing Broken Squad Chat Audio Issues in Battlefield V](https://www.colinodell.com/blog/202106/fixing-broken-squad-chat-audio-issues-battlefield-v) - 2021-06-13
 * [league/commonmark 1.6.0 Released!](https://www.colinodell.com/blog/202105/leaguecommonmark-160-released) - 2021-05-01
 * [PHP 8.1 is Getting Enumerations!](https://www.colinodell.com/blog/202102/php-81-getting-enumerations) - 2021-02-17
 * [Introducing ModernGeekware.com - Tees, Mugs, and more for Developers and Geeks](https://www.colinodell.com/blog/202101/introducing-moderngeekwarecom-tees-mugs-and-more-developers-and-geeks) - 2021-01-31
-* [How To Install PHP 8.0](https://www.colinodell.com/blog/202011/how-install-php-80) - 2020-11-28
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
 
