@@ -210,7 +210,7 @@ if __name__ == "__main__":
     contributions_md = "\n".join(
         [
             "* **[{nameWithOwner}]({url})**".format(**contribution)
-            for contribution in contributions
+            for contribution in contributions if contribution is not None
         ]
     )
     rewritten = replace_chunk(rewritten, "recent_contributions", contributions_md)
