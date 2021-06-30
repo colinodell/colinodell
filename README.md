@@ -19,7 +19,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0-beta2](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-beta2), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.5](https://github.com/thephpleague/commonmark/releases/tag/1.6.5), 3 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.5](https://github.com/thephpleague/commonmark/releases/tag/1.6.5), 4 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 1 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 3 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.0.1](https://github.com/thephpleague/config/releases/tag/v1.0.1), 4 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
@@ -35,7 +35,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 * **[thephpleague/thephpleague.github.io](https://github.com/thephpleague/thephpleague.github.io)**
-* **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
 <!-- recent_contributions ends -->
 
 ### From my blog
