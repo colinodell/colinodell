@@ -18,7 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.6](https://github.com/thephpleague/commonmark/releases/tag/1.6.6), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0](https://github.com/thephpleague/commonmark/releases/tag/2.0.0), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0-rc2](https://github.com/thephpleague/commonmark/releases/tag/2.0.0-rc2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 1 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 2 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
@@ -40,11 +40,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### From my blog
 
 <!-- blog starts -->
+* [league/commonmark 2.0.0 Released!](https://www.colinodell.com/blog/202107/league-commonmark-2-0-0-released) - 2021-07-24
 * [Auto-Updating Twitter Banners](https://www.colinodell.com/blog/202107/autoupdating-twitter-banners) - 2021-07-03
 * [Follow me on Polywork](https://www.colinodell.com/blog/202107/follow-me-on-polywork) - 2021-07-02
 * [league/commonmark 2.0.0-beta2 now available for testing](https://www.colinodell.com/blog/202106/leaguecommonmark-200beta2-now-available-testing) - 2021-06-27
 * [Fixing Broken Squad Chat Audio Issues in Battlefield V](https://www.colinodell.com/blog/202106/fixing-broken-squad-chat-audio-issues-battlefield-v) - 2021-06-13
-* [league/commonmark 1.6.0 Released!](https://www.colinodell.com/blog/202105/leaguecommonmark-160-released) - 2021-05-01
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
 
