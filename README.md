@@ -32,10 +32,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
+* **[home-assistant/core](https://github.com/home-assistant/core)**
 * **[spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter)**
-* **[laravel/framework](https://github.com/laravel/framework)**
 <!-- recent_contributions ends -->
 
 ### From my blog
