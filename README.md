@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
+* **[curl/curl](https://github.com/curl/curl)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
-* **[spatie/commonmark-shiki-highlighter](https://github.com/spatie/commonmark-shiki-highlighter)**
 <!-- recent_contributions ends -->
 
 ### From my blog
