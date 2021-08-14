@@ -31,8 +31,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 * **[curl/curl](https://github.com/curl/curl)**
