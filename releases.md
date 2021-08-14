@@ -3,10 +3,10 @@
 All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), today)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), yesterday)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.1](https://github.com/thephpleague/commonmark/releases/tag/2.0.1), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.0](https://github.com/thephpleague/commonmark/releases/tag/2.0.0), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 2 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 2 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 3 months ago)<br>Installs the New Relic PHP agent onto Debian servers
