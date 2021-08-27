@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
-* **[curl/curl](https://github.com/curl/curl)**
+* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 <!-- recent_contributions ends -->
 
 ### From my blog
