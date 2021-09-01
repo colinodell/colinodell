@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[unleashedtech/deployer-recipes](https://github.com/unleashedtech/deployer-recipes)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
-* **[curl/curl](https://github.com/curl/curl)**
 <!-- recent_contributions ends -->
 
 ### From my blog
