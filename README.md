@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[unleashedtech/deployer-recipes](https://github.com/unleashedtech/deployer-recipes)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
+* **[curl/curl](https://github.com/curl/curl)**
 <!-- recent_contributions ends -->
 
 ### From my blog
