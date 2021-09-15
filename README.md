@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[unleashedtech/deployer-recipes](https://github.com/unleashedtech/deployer-recipes)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[home-assistant/core](https://github.com/home-assistant/core)**
-* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
+* **[fre5h/DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle)**
 <!-- recent_contributions ends -->
 
 ### From my blog
