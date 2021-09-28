@@ -4,7 +4,7 @@ All <!-- release_count starts -->41<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.1), 1 weeks ago)<br>Convert HTML to Markdown with PHP
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 2 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 2 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.1](https://github.com/thephpleague/commonmark/releases/tag/2.0.1), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -18,7 +18,7 @@ All <!-- release_count starts -->41<!-- release_count ends --> of my released pr
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 8 months ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 8 months ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0), 10 months ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/phpstorm-colors](https://github.com/colinodell/phpstorm-colors)** ([0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0), 11 months ago)<br>My custom color scheme for PhpStorm
+* **[colinodell/phpstorm-colors](https://github.com/colinodell/phpstorm-colors)** ([0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0), 12 months ago)<br>My custom color scheme for PhpStorm
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.51.0](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.51.0), 12 months ago)<br>Home Assistant images for Docker using the dev branch of openzwave
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1), 12 months ago)<br>Home Assistant images for Docker using the dev branch of openzwave
 * **[colinodell/franz-twitch](https://github.com/colinodell/franz-twitch)** ([1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0), 12 months ago)<br>Twitch recipe for Franz 5
