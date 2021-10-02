@@ -23,7 +23,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 2 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 2 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.1](https://github.com/thephpleague/commonmark/releases/tag/2.0.1), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 3 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 4 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
