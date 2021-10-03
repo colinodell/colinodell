@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[bee-san/pyWhat](https://github.com/bee-san/pyWhat)**
+* **[tinesoft/ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent)**
 * **[theofidry/AliceDataFixtures](https://github.com/theofidry/AliceDataFixtures)**
 * **[php/php-src](https://github.com/php/php-src)**
-* **[fre5h/DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle)**
 <!-- recent_contributions ends -->
 
 ### From my blog
