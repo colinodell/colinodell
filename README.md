@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[bee-san/pyWhat](https://github.com/bee-san/pyWhat)**
 * **[tinesoft/ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent)**
 * **[CodeVisors/codevisor-profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher)**
-* **[theofidry/AliceDataFixtures](https://github.com/theofidry/AliceDataFixtures)**
+* **[fre5h/DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle)**
 <!-- recent_contributions ends -->
 
 ### From my blog
