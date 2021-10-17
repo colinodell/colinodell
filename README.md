@@ -32,10 +32,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[bee-san/pyWhat](https://github.com/bee-san/pyWhat)**
 * **[tinesoft/ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent)**
+* **[bee-san/pyWhat](https://github.com/bee-san/pyWhat)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[CodeVisors/codevisor-profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher)**
-* **[fre5h/DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle)**
 <!-- recent_contributions ends -->
 
 ### From my blog
