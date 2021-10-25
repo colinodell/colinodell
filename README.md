@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
 
-**Hi, I'm Colin** -- the Director of Technology at [Unleashed Technologies](https://www.unleashed-technologies.com/), where I'm responsible for identifying and implementing technologies and best-practices that provide exceptional experiences to our clients and their end-users.
+**Hi, I'm Colin** -- a Principal Engineer at [Unleashed Technologies](https://www.unleashed-technologies.com/), where I'm responsible for identifying and implementing technologies and best-practices that provide exceptional experiences to our clients and their end-users.
 
 When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
