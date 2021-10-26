@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[tinesoft/ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent)**
 * **[bee-san/pyWhat](https://github.com/bee-san/pyWhat)**
+* **[symfony/symfony](https://github.com/symfony/symfony)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
