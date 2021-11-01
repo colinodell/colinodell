@@ -19,7 +19,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 2 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.1), 1 months ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.1), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 3 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 3 months ago)<br>Python API for obtaining QNAP NAS system stats
