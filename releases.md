@@ -3,6 +3,7 @@
 All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.1](https://github.com/colinodell/json5/releases/tag/v2.2.1), today)<br>UTF-8 compatible JSON5 parser for PHP
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 2 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.1), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -30,7 +31,6 @@ All <!-- release_count starts -->41<!-- release_count ends --> of my released pr
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 2 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 2 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 2 years ago)<br>Useful extensions for the league/commonmark parser
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.1.0](https://github.com/colinodell/json5/releases/tag/v2.1.0), 3 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 3 years ago)<br>phpcs sniffs for Magento
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)** ([0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1), 3 years ago)<br>Which hosts support which PHP versions, and which is default
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0), 3 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
