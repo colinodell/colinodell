@@ -5,7 +5,7 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 2 days ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.1](https://github.com/colinodell/json5/releases/tag/v2.2.1), 2 days ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), yesterday)<br>Simple command line utility to check the status of an SSL certificate
+* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 2 days ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 3 weeks ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.1), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
