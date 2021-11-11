@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
+* **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)**
 * **[symfony/symfony](https://github.com/symfony/symfony)**
 * **[tinesoft/ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 <!-- recent_contributions ends -->
 
 ### From my blog
