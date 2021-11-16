@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)**
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)**
-* **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[symfony/symfony](https://github.com/symfony/symfony)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 <!-- recent_contributions ends -->
 
 ### From my blog
