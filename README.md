@@ -23,7 +23,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 3 weeks ago)<br>Super tiny HTTP server that always returns the same response
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 4 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.1](https://github.com/colinodell/json5/releases/tag/v2.2.1), 4 weeks ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 3 weeks ago)<br>Simple command line utility to check the status of an SSL certificate
+* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 4 weeks ago)<br>Simple command line utility to check the status of an SSL certificate
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
