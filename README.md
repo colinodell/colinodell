@@ -33,8 +33,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)**
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 <!-- recent_contributions ends -->
 
