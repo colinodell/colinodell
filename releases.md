@@ -3,6 +3,7 @@
 All <!-- release_count starts -->45<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.0](https://github.com/thephpleague/commonmark/releases/tag/2.1.0), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 3 weeks ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 3 weeks ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 3 weeks ago)<br>Super tiny HTTP server that always returns the same response
@@ -14,7 +15,6 @@ All <!-- release_count starts -->45<!-- release_count ends --> of my released pr
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.2](https://github.com/thephpleague/commonmark/releases/tag/2.0.2), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 4 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 4 months ago)<br>Python API for obtaining QNAP NAS system stats
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.0.1](https://github.com/thephpleague/commonmark/releases/tag/2.0.1), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 6 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 6 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 7 months ago)<br>Installs the New Relic PHP agent onto Debian servers
