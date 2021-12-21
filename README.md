@@ -22,7 +22,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 1 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 1 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 1 months ago)<br>Super tiny HTTP server that always returns the same response
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 1 months ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.1](https://github.com/colinodell/json5/releases/tag/v2.2.1), 2 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
