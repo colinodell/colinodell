@@ -35,7 +35,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)**
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[symfony/symfony](https://github.com/symfony/symfony)**
 <!-- recent_contributions ends -->
 
 ### From my blog
