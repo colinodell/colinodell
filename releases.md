@@ -3,7 +3,7 @@
 All <!-- release_count starts -->45<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), today)<br>Simple command line utility to check the status of an SSL certificate
+* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), yesterday)<br>Simple command line utility to check the status of an SSL certificate
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.0](https://github.com/thephpleague/commonmark/releases/tag/2.1.0), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
