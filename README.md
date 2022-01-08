@@ -18,7 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.1](https://github.com/thephpleague/commonmark/releases/tag/2.1.1), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.1](https://github.com/thephpleague/commonmark/releases/tag/2.1.1), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), 1 weeks ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.0](https://github.com/thephpleague/commonmark/releases/tag/2.1.0), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
