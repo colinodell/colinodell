@@ -19,7 +19,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([1.6.7](https://github.com/thephpleague/commonmark/releases/tag/1.6.7), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.1](https://github.com/thephpleague/commonmark/releases/tag/2.1.1), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.1](https://github.com/thephpleague/commonmark/releases/tag/2.1.1), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), 2 weeks ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
@@ -33,8 +33,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)**
+* **[thephpleague/construct-finder](https://github.com/thephpleague/construct-finder)**
 * **[symfony/symfony](https://github.com/symfony/symfony)**
-* **[home-assistant/core](https://github.com/home-assistant/core)**
 <!-- recent_contributions ends -->
 
 ### From my blog
