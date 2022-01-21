@@ -35,6 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/statsd](https://github.com/thephpleague/statsd)**
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)**
 * **[thephpleague/construct-finder](https://github.com/thephpleague/construct-finder)**
+* **[symfony/symfony](https://github.com/symfony/symfony)**
 <!-- recent_contributions ends -->
 
 ### From my blog
