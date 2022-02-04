@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/statsd](https://github.com/thephpleague/statsd)**
 * **[thephpleague/construct-finder](https://github.com/thephpleague/construct-finder)**
 * **[symfony/symfony](https://github.com/symfony/symfony)**
-* **[home-assistant/core](https://github.com/home-assistant/core)**
+* **[okvpn/datadog-symfony](https://github.com/okvpn/datadog-symfony)**
 <!-- recent_contributions ends -->
 
 ### From my blog
