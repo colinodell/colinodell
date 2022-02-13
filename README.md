@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/statsd](https://github.com/thephpleague/statsd)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[thephpleague/construct-finder](https://github.com/thephpleague/construct-finder)**
 * **[symfony/symfony](https://github.com/symfony/symfony)**
-* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
 
 ### From my blog
