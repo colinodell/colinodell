@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/statsd](https://github.com/thephpleague/statsd)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[thephpleague/construct-finder](https://github.com/thephpleague/construct-finder)**
 <!-- recent_contributions ends -->
 
 ### From my blog
