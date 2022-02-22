@@ -3,6 +3,7 @@
 All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), today)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.2](https://github.com/thephpleague/commonmark/releases/tag/2.1.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.2](https://github.com/thephpleague/commonmark/releases/tag/2.2.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 4 weeks ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
@@ -24,7 +25,6 @@ All <!-- release_count starts -->46<!-- release_count ends --> of my released pr
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1), 11 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 1 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 1 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.0](https://github.com/colinodell/json5/releases/tag/v2.2.0), 1 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/phpstorm-colors](https://github.com/colinodell/phpstorm-colors)** ([0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0), 1 years ago)<br>My custom color scheme for PhpStorm
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.51.0](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.51.0), 1 years ago)<br>Home Assistant images for Docker using the dev branch of openzwave
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1), 1 years ago)<br>Home Assistant images for Docker using the dev branch of openzwave
