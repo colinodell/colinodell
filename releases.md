@@ -3,7 +3,7 @@
 All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), today)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), yesterday)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.2](https://github.com/thephpleague/commonmark/releases/tag/2.1.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.2](https://github.com/thephpleague/commonmark/releases/tag/2.2.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 1 months ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
