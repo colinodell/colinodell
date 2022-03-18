@@ -3,7 +3,7 @@
 All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), yesterday)<br>PHP library to detect and manipulate indentation of strings and files
+* **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 2 days ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 2 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.3](https://github.com/thephpleague/commonmark/releases/tag/2.1.3), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.3](https://github.com/thephpleague/commonmark/releases/tag/2.2.3), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -20,7 +20,7 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 7 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 7 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 9 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
-* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 9 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 10 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 11 months ago)<br>Installs the New Relic PHP agent onto Debian servers
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 12 months ago)<br>Zero-amount payment driver for Omnipay
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
