@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[colinodell/indentation](https://github.com/colinodell/indentation)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
