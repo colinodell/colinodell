@@ -22,7 +22,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 2 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.3](https://github.com/thephpleague/commonmark/releases/tag/2.1.3), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.3](https://github.com/thephpleague/commonmark/releases/tag/2.2.3), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), 3 weeks ago)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), 4 weeks ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 2 months ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
