@@ -18,12 +18,12 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[dagger/dagger](https://github.com/dagger/dagger)** ([v0.2.4](https://github.com/dagger/dagger/releases/tag/v0.2.4), today)<br>A portable devkit for CI/CD pipelines
-* **[dagger/dagger](https://github.com/dagger/dagger)** ([v0.2.3](https://github.com/dagger/dagger/releases/tag/v0.2.3), yesterday)<br>A portable devkit for CI/CD pipelines
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 1 weeks ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 2 weeks ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 4 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.3](https://github.com/thephpleague/commonmark/releases/tag/2.1.3), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.3](https://github.com/thephpleague/commonmark/releases/tag/2.2.3), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), 1 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
