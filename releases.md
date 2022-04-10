@@ -3,7 +3,7 @@
 All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.0](https://github.com/thephpleague/commonmark/releases/tag/2.3.0), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.0](https://github.com/thephpleague/commonmark/releases/tag/2.3.0), 3 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 3 weeks ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 4 weeks ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 1 months ago)<br>Convert HTML to Markdown with PHP
