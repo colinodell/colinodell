@@ -30,12 +30,12 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/indentation](https://github.com/colinodell/indentation)**
-* **[colinodell/cookiecache](https://github.com/colinodell/cookiecache)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
-* **[colinodell/afpl](https://github.com/colinodell/afpl)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd)**
 <!-- recent_contributions ends -->
 
 ### From my blog
