@@ -33,8 +33,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/indentation](https://github.com/colinodell/indentation)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd)**
 <!-- recent_contributions ends -->
 
