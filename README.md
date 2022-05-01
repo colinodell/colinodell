@@ -32,10 +32,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/indentation](https://github.com/colinodell/indentation)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
+* **[colinodell/cookiecache](https://github.com/colinodell/cookiecache)**
+* **[ecomfe/gitdiff-parser](https://github.com/ecomfe/gitdiff-parser)**
 <!-- recent_contributions ends -->
 
 ### From my blog
