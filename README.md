@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[colinodell/cookiecache](https://github.com/colinodell/cookiecache)**
-* **[ecomfe/gitdiff-parser](https://github.com/ecomfe/gitdiff-parser)**
+* **[PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)**
 <!-- recent_contributions ends -->
 
 ### From my blog
