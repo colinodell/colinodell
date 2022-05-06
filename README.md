@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
+* **[colinodell/linux-dev-playbook](https://github.com/colinodell/linux-dev-playbook)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[colinodell/cookiecache](https://github.com/colinodell/cookiecache)**
-* **[PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)**
 <!-- recent_contributions ends -->
 
 ### From my blog
