@@ -3,13 +3,13 @@
 All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.4](https://github.com/thephpleague/commonmark/releases/tag/2.2.4), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 2 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 2 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.0](https://github.com/thephpleague/commonmark/releases/tag/2.3.0), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 2 months ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 2 months ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 2 months ago)<br>Convert HTML to Markdown with PHP
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.3](https://github.com/thephpleague/commonmark/releases/tag/2.2.3), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), 3 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 4 months ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), 4 months ago)<br>Simple command line utility to check the status of an SSL certificate
