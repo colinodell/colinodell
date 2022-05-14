@@ -19,9 +19,9 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.4](https://github.com/thephpleague/commonmark/releases/tag/2.2.4), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.1](https://github.com/thephpleague/commonmark/releases/tag/2.3.1), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 2 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 2 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.0](https://github.com/thephpleague/commonmark/releases/tag/2.3.0), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 2 months ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 2 months ago)<br>PHP library to detect and manipulate indentation of strings and files
 <!-- recent_releases ends -->
