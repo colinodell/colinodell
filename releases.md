@@ -3,8 +3,9 @@
 All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.5](https://github.com/thephpleague/commonmark/releases/tag/2.2.5), 3 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.2](https://github.com/thephpleague/commonmark/releases/tag/2.3.2), 3 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), today)<br>Python API for obtaining QNAP NAS system stats
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.5](https://github.com/thephpleague/commonmark/releases/tag/2.2.5), 4 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.2](https://github.com/thephpleague/commonmark/releases/tag/2.3.2), 4 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 1 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 1 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 3 months ago)<br>PHP library to detect and manipulate indentation of strings and files
@@ -26,7 +27,6 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 1 years ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 1 years ago)<br>Installs the New Relic PHP agent onto Debian servers
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 1 years ago)<br>Zero-amount payment driver for Omnipay
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.3.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.3.1), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 1 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 1 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/phpstorm-colors](https://github.com/colinodell/phpstorm-colors)** ([0.1.0](https://github.com/colinodell/phpstorm-colors/releases/tag/0.1.0), 2 years ago)<br>My custom color scheme for PhpStorm
