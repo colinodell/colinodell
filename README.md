@@ -35,7 +35,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/advent-2016](https://github.com/colinodell/advent-2016)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 * **[colinodell/linux-dev-playbook](https://github.com/colinodell/linux-dev-playbook)**
-* **[PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)**
 <!-- recent_contributions ends -->
 
 ### From my blog
