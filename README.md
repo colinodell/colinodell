@@ -33,8 +33,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/advent-2016](https://github.com/colinodell/advent-2016)**
+* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
-* **[colinodell/linux-dev-playbook](https://github.com/colinodell/linux-dev-playbook)**
 <!-- recent_contributions ends -->
 
 ### From my blog
