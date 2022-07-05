@@ -34,7 +34,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[colinodell/advent-2016](https://github.com/colinodell/advent-2016)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 <!-- recent_contributions ends -->
 
 ### From my blog
