@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[bbaga/github-scheduled-reminder-app](https://github.com/bbaga/github-scheduled-reminder-app)**
 * **[colinodell/advent-2016](https://github.com/colinodell/advent-2016)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 <!-- recent_contributions ends -->
 
 ### From my blog
