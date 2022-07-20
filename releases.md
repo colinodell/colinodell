@@ -3,7 +3,7 @@
 All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 3 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.3](https://github.com/thephpleague/commonmark/releases/tag/2.3.3), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 1 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 3 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
@@ -19,7 +19,7 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 8 months ago)<br>Super tiny HTTP server that always returns the same response
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 9 months ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.1](https://github.com/colinodell/json5/releases/tag/v2.2.1), 9 months ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 8 months ago)<br>Simple command line utility to check the status of an SSL certificate
+* **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 9 months ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 9 months ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 11 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 11 months ago)<br>Python API for obtaining QNAP NAS system stats
