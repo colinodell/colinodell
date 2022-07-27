@@ -3,11 +3,11 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), today)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.3](https://github.com/thephpleague/commonmark/releases/tag/2.3.3), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 2 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Release 0.15.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.15.0), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Release 0.14.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.14.0), 3 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 3 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 3 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 4 months ago)<br>PHP library to detect and manipulate indentation of strings and files
