@@ -4,7 +4,7 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), today)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.3](https://github.com/thephpleague/commonmark/releases/tag/2.3.3), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 2 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Release 0.15.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.15.0), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
