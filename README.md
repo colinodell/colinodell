@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[bbaga/github-scheduled-reminder-app](https://github.com/bbaga/github-scheduled-reminder-app)**
-* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 <!-- recent_contributions ends -->
 
 ### From my blog
