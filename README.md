@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[microsoft/msphpsql](https://github.com/microsoft/msphpsql)**
-* **[home-assistant/core](https://github.com/home-assistant/core)**
 <!-- recent_contributions ends -->
 
 ### From my blog
