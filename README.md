@@ -32,10 +32,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
-* **[bbaga/github-scheduled-reminder-app](https://github.com/bbaga/github-scheduled-reminder-app)**
+* **[microsoft/msphpsql](https://github.com/microsoft/msphpsql)**
+* **[home-assistant/core](https://github.com/home-assistant/core)**
 <!-- recent_contributions ends -->
 
 ### From my blog
