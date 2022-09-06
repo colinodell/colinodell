@@ -30,8 +30,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
