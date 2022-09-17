@@ -34,8 +34,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[tektoncd/cli](https://github.com/tektoncd/cli)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[thecodingmachine/safe](https://github.com/thecodingmachine/safe)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 <!-- recent_contributions ends -->
 
 ### From my blog
