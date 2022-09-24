@@ -32,9 +32,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[tektoncd/cli](https://github.com/tektoncd/cli)**
 * **[thecodingmachine/safe](https://github.com/thecodingmachine/safe)**
-* **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 <!-- recent_contributions ends -->
 
