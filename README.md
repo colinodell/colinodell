@@ -33,9 +33,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[tektoncd/cli](https://github.com/tektoncd/cli)**
 * **[thecodingmachine/safe](https://github.com/thecodingmachine/safe)**
-* **[DerManoMann/openapi-verifier](https://github.com/DerManoMann/openapi-verifier)**
 <!-- recent_contributions ends -->
 
 ### From my blog
