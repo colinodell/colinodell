@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[tektoncd/cli](https://github.com/tektoncd/cli)**
-* **[thecodingmachine/safe](https://github.com/thecodingmachine/safe)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 <!-- recent_contributions ends -->
 
 ### From my blog
