@@ -18,12 +18,12 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.5](https://github.com/thephpleague/commonmark/releases/tag/2.3.5), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 3 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.4](https://github.com/thephpleague/commonmark/releases/tag/2.3.4), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 4 months ago)<br>Python API for obtaining QNAP NAS system stats
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Release 0.15.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.15.0), 5 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 6 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 6 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
+* **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 7 months ago)<br>PHP library to detect and manipulate indentation of strings and files
+* **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 7 months ago)<br>PHP library to detect and manipulate indentation of strings and files
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.2.3](https://github.com/thephpleague/commonmark/releases/tag/2.2.3), 8 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.1.3](https://github.com/thephpleague/commonmark/releases/tag/2.1.3), 8 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
