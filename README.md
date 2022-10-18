@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[colinodell/json5](https://github.com/colinodell/json5)**
+* **[tektoncd/cli](https://github.com/tektoncd/cli)**
 <!-- recent_contributions ends -->
 
 ### From my blog
