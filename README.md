@@ -35,7 +35,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[dflydev/dflydev-dot-access-data](https://github.com/dflydev/dflydev-dot-access-data)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[Unleash/unleash-client-php](https://github.com/Unleash/unleash-client-php)**
 <!-- recent_contributions ends -->
 
 ### From my blog
