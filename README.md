@@ -32,10 +32,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 * **[dflydev/dflydev-dot-access-data](https://github.com/dflydev/dflydev-dot-access-data)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[Unleash/unleash-client-php](https://github.com/Unleash/unleash-client-php)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
