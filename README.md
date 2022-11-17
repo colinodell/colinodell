@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
 
-**Hi, I'm Colin** -- a Senior Software Engineer on the PHP Platforms team at [@Wayfair](https://github.com/wayfair).
+**Hi, I'm Colin** -- a Senior Software Engineer on the Developer Acceleration team at [@Wayfair](https://github.com/wayfair).
 
 When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
