@@ -40,7 +40,7 @@ query {
         nameWithOwner
         description
         url
-        releases(last:2) {
+        releases(first:2) {
           totalCount
           nodes {
             name
