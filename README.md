@@ -4,7 +4,7 @@
 
 When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
-Check out out [my blog](https://www.colinodell.com/blog) or [follow @colinodell on Twitter](https://twitter.com/colinodell).
+Check out out [my blog](https://www.colinodell.com/blog) or follow me on [Twitter](https://twitter.com/colinodell) or <a rel="me" href="https://phpc.social/@colinodell">Mastodon</a>.
 
 ### Popular projects
 
