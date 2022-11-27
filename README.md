@@ -35,9 +35,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[dflydev/dflydev-dot-access-data](https://github.com/dflydev/dflydev-dot-access-data)**
 * **[wayfair/ospo-automation](https://github.com/wayfair/ospo-automation)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 <!-- recent_contributions ends -->
 
 ### From my blog
