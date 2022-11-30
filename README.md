@@ -36,8 +36,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[dflydev/dflydev-dot-access-data](https://github.com/dflydev/dflydev-dot-access-data)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
+* **[dflydev/dflydev-dot-access-data](https://github.com/dflydev/dflydev-dot-access-data)**
 <!-- recent_contributions ends -->
 
 ### From my blog
