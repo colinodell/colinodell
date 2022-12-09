@@ -33,8 +33,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/advent-2022](https://github.com/colinodell/advent-2022)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[colinodell/colinodell](https://github.com/colinodell/colinodell)**
@@ -43,11 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### From my blog
 
 <!-- blog starts -->
-* [DIY "On Air" light automation for Google Meet](https://www.colinodell.com/blog/202207/diy-on-air-light-automation-google-meet-chrome-extension) - 2022-07-03
-* [league/commonmark 2.0.0 Released!](https://www.colinodell.com/blog/202107/league-commonmark-2-0-0-released) - 2021-07-24
-* [Auto-Updating Twitter Banners](https://www.colinodell.com/blog/202107/autoupdating-twitter-banners) - 2021-07-03
-* [Follow me on Polywork](https://www.colinodell.com/blog/202107/follow-me-on-polywork) - 2021-07-02
-* [league/commonmark 2.0.0-beta2 now available for testing](https://www.colinodell.com/blog/202106/leaguecommonmark-200beta2-now-available-testing) - 2021-06-27
+
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
 
