@@ -3,6 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), today)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.8](https://github.com/thephpleague/commonmark/releases/tag/2.3.8), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.7](https://github.com/thephpleague/commonmark/releases/tag/2.3.7), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
@@ -25,7 +26,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 1 years ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 1 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
-* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.0](https://github.com/thephpleague/config/releases/tag/v1.1.0), 1 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.0](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.0), 2 years ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
 * **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.1.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.1.0), 2 years ago)<br>Installs the New Relic PHP agent onto Debian servers
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 2 years ago)<br>Zero-amount payment driver for Omnipay
