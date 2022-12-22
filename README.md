@@ -18,7 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 1 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 2 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.8](https://github.com/thephpleague/commonmark/releases/tag/2.3.8), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.7](https://github.com/thephpleague/commonmark/releases/tag/2.3.7), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
