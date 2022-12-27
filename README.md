@@ -18,6 +18,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), today)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 2 weeks ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.8](https://github.com/thephpleague/commonmark/releases/tag/2.3.8), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.7](https://github.com/thephpleague/commonmark/releases/tag/2.3.7), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -25,7 +26,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 5 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 7 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 8 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
-* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 8 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
