@@ -37,7 +37,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[colinodell/colinodell](https://github.com/colinodell/colinodell)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 <!-- recent_contributions ends -->
 
 ### From my blog
