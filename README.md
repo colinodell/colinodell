@@ -32,8 +32,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[colinodell/advent-2022](https://github.com/colinodell/advent-2022)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[colinodell/advent-2022](https://github.com/colinodell/advent-2022)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
