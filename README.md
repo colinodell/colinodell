@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
 
-**Hi, I'm Colin** -- a Senior Software Engineer on the Developer Acceleration team at [@Wayfair](https://github.com/wayfair).
+**Hi, I'm Colin** -- I help accelerate business outcomes by increasing software teams’ efficiency, effectiveness, and empowerment at [@Wayfair](https://github.com/wayfair).
 
-When I'm not solving challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
+When I'm not solving interesting challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my popular [CommonMark Markdown parser for PHP](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
 Check out out [my blog](https://www.colinodell.com/blog) or follow me on [Twitter](https://twitter.com/colinodell) or <a rel="me" href="https://phpc.social/@colinodell">Mastodon</a>.
 
