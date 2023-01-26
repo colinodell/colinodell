@@ -6,6 +6,12 @@ When I'm not solving interesting challenges at work, you can usually find me [wo
 
 Check out out [my blog](https://www.colinodell.com/blog) or follow me on [Twitter](https://twitter.com/colinodell) or <a rel="me" href="https://phpc.social/@colinodell">Mastodon</a>.
 
+### Personal Stats
+
+<img align="right" alt="colinodell's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinodell&count_private=0&show_icons=true&" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinodell&exclude_repo=mcforge)
+
 ### Popular projects
 
 * **[league/commonmark](https://commonmark.thephpleague.com/)**: Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs
@@ -50,11 +56,5 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * [league/commonmark 2.0.0-beta2 now available for testing](https://www.colinodell.com/blog/202106/leaguecommonmark-200beta2-now-available-testing) - 2021-06-27
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
-
-### Personal Stats
-
-<img align="right" alt="colinodell's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colinodell&count_private=0&show_icons=true&" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinodell&exclude_repo=mcforge)
 
 <a href="https://github.com/colinodell/colinodell/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
