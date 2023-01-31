@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/advent-2022](https://github.com/colinodell/advent-2022)**
-* **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[colinodell/colinodell](https://github.com/colinodell/colinodell)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
 
 ### From my blog
