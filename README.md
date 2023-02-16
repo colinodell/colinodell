@@ -24,7 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 2 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 2 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.8](https://github.com/thephpleague/commonmark/releases/tag/2.3.8), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
