@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -13,6 +13,7 @@ All <!-- release_count starts -->51<!-- release_count ends --> of my released pr
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.1.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.1.0), 10 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.0.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.0.0), 10 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 11 months ago)<br>PHP library to detect and manipulate indentation of strings and files
+* **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 12 months ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.0](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.0), 12 months ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.2.2](https://github.com/colinodell/json5/releases/tag/v2.2.2), 1 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 1 years ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
