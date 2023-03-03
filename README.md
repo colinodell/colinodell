@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
-* **[colinodell/colinodell](https://github.com/colinodell/colinodell)**
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
-* **[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)**
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[github/cmark-gfm](https://github.com/github/cmark-gfm)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
