@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)**
 * **[github/cmark-gfm](https://github.com/github/cmark-gfm)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
