@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
-* **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
-* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
+* **[newrelic/docs-website](https://github.com/newrelic/docs-website)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
 
 ### From my blog
