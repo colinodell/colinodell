@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.0](https://github.com/thephpleague/commonmark/releases/tag/2.4.0), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -20,6 +20,7 @@ All <!-- release_count starts -->51<!-- release_count ends --> of my released pr
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), 1 years ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 1 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 1 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
+* **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 1 years ago)<br>Super tiny HTTP server that always returns the same response
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.0.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.0.2), 1 years ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 1 years ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 1 years ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
