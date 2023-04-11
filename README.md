@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[newrelic/docs-website](https://github.com/newrelic/docs-website)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
 <!-- recent_contributions ends -->
 
 ### From my blog
