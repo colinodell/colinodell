@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
-* **[newrelic/docs-website](https://github.com/newrelic/docs-website)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[newrelic/docs-website](https://github.com/newrelic/docs-website)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
 
