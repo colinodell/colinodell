@@ -41,8 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[api-platform/core](https://github.com/api-platform/core)**
-* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
+* **[maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker)**
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
+* **[newrelic/docs-website](https://github.com/newrelic/docs-website)**
 <!-- recent_contributions ends -->
 
 ### From my blog
