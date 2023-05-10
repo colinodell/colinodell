@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker)**
-* **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)**
 <!-- recent_contributions ends -->
 
 ### From my blog
