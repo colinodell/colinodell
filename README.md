@@ -42,7 +42,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[maglnet/ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker)**
+* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 <!-- recent_contributions ends -->
 
 ### From my blog
