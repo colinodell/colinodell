@@ -43,6 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
 <!-- recent_contributions ends -->
 
 ### From my blog
