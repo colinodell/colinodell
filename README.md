@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
 <!-- recent_contributions ends -->
 
 ### From my blog
