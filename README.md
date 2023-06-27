@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
 * **[api-platform/core](https://github.com/api-platform/core)**
+* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
