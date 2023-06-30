@@ -29,7 +29,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 6 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 7 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 8 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 9 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 11 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
 <!-- recent_releases ends -->
