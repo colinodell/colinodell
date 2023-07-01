@@ -42,7 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
-* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
+* **[colinodell/api-platform-core](https://github.com/colinodell/api-platform-core)**
+* **[api-platform/api-platform](https://github.com/api-platform/api-platform)**
 <!-- recent_contributions ends -->
 
 ### From my blog
