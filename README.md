@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), today)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.0](https://github.com/thephpleague/commonmark/releases/tag/2.4.0), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.2.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.2.0), 4 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), 5 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 7 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 9 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 12 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
