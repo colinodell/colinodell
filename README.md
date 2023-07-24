@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[api-platform/core](https://github.com/api-platform/core)**
 * **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
-* **[colinodell/api-platform-core](https://github.com/colinodell/api-platform-core)**
 <!-- recent_contributions ends -->
 
 ### From my blog
