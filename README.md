@@ -38,11 +38,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[symfony/symfony-docs](https://github.com/symfony/symfony-docs)**
-* **[api-platform/core](https://github.com/api-platform/core)**
+* **[dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 <!-- recent_contributions ends -->
 
 ### From my blog
