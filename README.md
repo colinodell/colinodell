@@ -39,9 +39,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[vimeo/psalm](https://github.com/vimeo/psalm)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser)**
 <!-- recent_contributions ends -->
 
