@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser)**
 * **[vimeo/psalm](https://github.com/vimeo/psalm)**
 <!-- recent_contributions ends -->
 
