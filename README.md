@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
 
-**Hi, I'm Colin** -- I help accelerate business outcomes by increasing software teams’ efficiency, effectiveness, and empowerment at [@Wayfair](https://github.com/wayfair).
+**Hi, I'm Colin** -- I help accelerate business outcomes by increasing software teams’ efficiency, effectiveness, and empowerment at [@SeatGeek](https://github.com/seatgeek).
 
 When I'm not solving interesting challenges at work, you can usually find me [working on open-source projects](https://www.colinodell.com/projects) (like my popular [CommonMark Markdown parser](https://github.com/thephpleague/commonmark#leaguecommonmark)) or learning to play hockey.
 
