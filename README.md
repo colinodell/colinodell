@@ -42,7 +42,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser)**
-* **[vimeo/psalm](https://github.com/vimeo/psalm)**
+* **[hashicorp/hc-install](https://github.com/hashicorp/hc-install)**
 <!-- recent_contributions ends -->
 
 ### From my blog
