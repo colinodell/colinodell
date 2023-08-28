@@ -42,7 +42,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
-* **[phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser)**
+* **[hashicorp/hc-install](https://github.com/hashicorp/hc-install)**
 <!-- recent_contributions ends -->
 
 ### From my blog
