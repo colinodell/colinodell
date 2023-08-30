@@ -3,10 +3,10 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.0](https://github.com/thephpleague/commonmark/releases/tag/2.4.0), 5 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.2.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.2.0), 6 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.3.9](https://github.com/thephpleague/commonmark/releases/tag/2.3.9), 7 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 8 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 9 months ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 11 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
