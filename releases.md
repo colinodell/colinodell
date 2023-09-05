@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 2 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.0](https://github.com/thephpleague/commonmark/releases/tag/2.4.0), 6 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.2.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.2.0), 6 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
@@ -42,7 +42,7 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 4 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 4 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 4 years ago)<br>Useful extensions for the league/commonmark parser
-* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 4 years ago)<br>phpcs sniffs for Magento
+* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 5 years ago)<br>phpcs sniffs for Magento
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)** ([0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1), 5 years ago)<br>Which hosts support which PHP versions, and which is default
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0), 5 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
 * **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0), 5 years ago)<br>Checks whether files have the correct line endings
