@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[hashicorp/hc-install](https://github.com/hashicorp/hc-install)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
+* **[hashicorp/hc-install](https://github.com/hashicorp/hc-install)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 <!-- recent_contributions ends -->
 
