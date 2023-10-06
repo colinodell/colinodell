@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
+* **[mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee)**
 * **[api-platform/core](https://github.com/api-platform/core)**
-* **[colinodell/indentation](https://github.com/colinodell/indentation)**
 <!-- recent_contributions ends -->
 
 ### From my blog
