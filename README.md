@@ -25,7 +25,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 3 months ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 4 months ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.0](https://github.com/thephpleague/commonmark/releases/tag/2.4.0), 7 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.2.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.2.0), 8 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 10 months ago)<br>UTF-8 compatible JSON5 parser for PHP
