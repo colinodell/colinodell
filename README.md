@@ -40,9 +40,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee)**
 <!-- recent_contributions ends -->
 
