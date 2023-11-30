@@ -38,11 +38,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 <!-- recent_contributions ends -->
 
 ### From my blog
