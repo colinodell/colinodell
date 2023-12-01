@@ -3,6 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), today)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.0), yesterday)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 5 months ago)<br>Convert HTML to Markdown with PHP
@@ -20,7 +21,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 2 years ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.3.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.3.0), 2 years ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 2 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
-* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.1](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.1), 2 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 2 years ago)<br>Super tiny HTTP server that always returns the same response
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 2 years ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[unleashedtech/php-coding-standard](https://github.com/unleashedtech/php-coding-standard)** ([v3.1.1](https://github.com/unleashedtech/php-coding-standard/releases/tag/v3.1.1), 2 years ago)<br>Opinionated, strict PHP CodeSniffer ruleset used by Unleashed Technologies
