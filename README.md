@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/advent-2023](https://github.com/colinodell/advent-2023)**
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee)**
 <!-- recent_contributions ends -->
 
