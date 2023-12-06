@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 4 days ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
+* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 5 days ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.0), 6 days ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 5 months ago)<br>Convert HTML to Markdown with PHP
