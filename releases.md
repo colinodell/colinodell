@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 3 weeks ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
@@ -38,7 +38,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[colinodell/packagist-download-counter](https://github.com/colinodell/packagist-download-counter)** ([1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0), 3 years ago)<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
 * **[colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)** ([1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0), 3 years ago)<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0), 4 years ago)<br>Useful extensions for the league/commonmark parser
-* **[unleashedtech/ansible-role-newrelic-php](https://github.com/unleashedtech/ansible-role-newrelic-php)** ([1.0.0](https://github.com/unleashedtech/ansible-role-newrelic-php/releases/tag/1.0.0), 4 years ago)<br>Installs the New Relic PHP agent onto Debian servers
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 4 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 4 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 4 years ago)<br>Useful extensions for the league/commonmark parser
