@@ -41,8 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/advent-2023](https://github.com/colinodell/advent-2023)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
-* **[mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee)**
+* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
+* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)**
+* **[moby/buildkit](https://github.com/moby/buildkit)**
 <!-- recent_contributions ends -->
 
 ### From my blog
