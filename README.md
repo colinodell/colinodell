@@ -38,8 +38,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[colinodell/advent-2023](https://github.com/colinodell/advent-2023)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[colinodell/advent-2023](https://github.com/colinodell/advent-2023)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/renovate-repro-26597](https://github.com/colinodell/renovate-repro-26597)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
