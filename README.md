@@ -24,8 +24,8 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/plugin-slack-catalog-backend@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/plugin-slack-catalog-backend%401.0.0), today)<br>SeatGeek Backstage Plugins Collection
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/plugin-entity-scaffolder-content@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/plugin-entity-scaffolder-content%401.0.0), today)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%401.0.0), today)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-entity-scaffolder-content@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-entity-scaffolder-content%401.0.0), today)<br>SeatGeek Backstage Plugins Collection
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 2 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.0), 2 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.1](https://github.com/thephpleague/commonmark/releases/tag/2.4.1), 5 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
