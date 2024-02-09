@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
-* **[colinodell/renovate-repro-26597](https://github.com/colinodell/renovate-repro-26597)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[colinodell/renovate-repro-26597](https://github.com/colinodell/renovate-repro-26597)**
 * **[psecio/versionscan](https://github.com/psecio/versionscan)**
 <!-- recent_contributions ends -->
 
