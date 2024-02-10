@@ -3,7 +3,7 @@
 All <!-- release_count starts -->54<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), today)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), yesterday)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.2](https://github.com/thephpleague/commonmark/releases/tag/2.4.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@1.0.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%401.0.1), 1 weeks ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%401.0.0), 1 weeks ago)<br>SeatGeek Backstage Plugins Collection
