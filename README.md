@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[colinodell/renovate-repro-26597](https://github.com/colinodell/renovate-repro-26597)**
+* **[xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)**
 <!-- recent_contributions ends -->
 
 ### From my blog
