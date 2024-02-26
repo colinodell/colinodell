@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)**
 * **[xanzy/go-gitlab](https://github.com/xanzy/go-gitlab)**
 <!-- recent_contributions ends -->
 
