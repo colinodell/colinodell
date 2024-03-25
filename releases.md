@@ -3,8 +3,8 @@
 All <!-- release_count starts -->54<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@1.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%401.0.2), 4 days ago)<br>SeatGeek Backstage Plugins Collection
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.0.0), 4 days ago)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@1.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%401.0.2), 5 days ago)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.0.0), 5 days ago)<br>SeatGeek Backstage Plugins Collection
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 2 months ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.4.2](https://github.com/thephpleague/commonmark/releases/tag/2.4.2), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 4 months ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
@@ -47,7 +47,7 @@ All <!-- release_count starts -->54<!-- release_count ends --> of my released pr
 * **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 5 years ago)<br>phpcs sniffs for Magento
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)** ([0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1), 5 years ago)<br>Which hosts support which PHP versions, and which is default
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0), 6 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
-* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0), 5 years ago)<br>Checks whether files have the correct line endings
+* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0), 6 years ago)<br>Checks whether files have the correct line endings
 * **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v1.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v1.0.0), 6 years ago)<br>phpcs sniffs for Magento
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0-beta.1](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0-beta.1), 6 years ago)<br>Zero-amount payment driver for Omnipay
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v1.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v1.0.0), 6 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
