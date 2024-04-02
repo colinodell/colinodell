@@ -38,8 +38,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
 * **[go-playground/webhooks](https://github.com/go-playground/webhooks)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
