@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[zhammer/pytest-hammertime](https://github.com/zhammer/pytest-hammertime)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
+* **[zhammer/pytest-hammertime](https://github.com/zhammer/pytest-hammertime)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[jippi/scm-engine](https://github.com/jippi/scm-engine)**
 <!-- recent_contributions ends -->
