@@ -56,5 +56,5 @@ All <!-- release_count starts -->54<!-- release_count ends --> of my released pr
 * **[colinodell/AdafruitSerialRGBLCD](https://github.com/colinodell/AdafruitSerialRGBLCD)** ([0.3.1](https://github.com/colinodell/AdafruitSerialRGBLCD/releases/tag/0.3.1), 7 years ago)<br>Firmware library for Adafruit's USB + Serial Backpack Kit with 16x2 RGB LCD
 * **[colinodell/cloud-to-butt](https://github.com/colinodell/cloud-to-butt)** ([0.1.0](https://github.com/colinodell/cloud-to-butt/releases/tag/0.1.0), 7 years ago)<br>PSR-7 middleware for changing "cloud" to "butt"
 * **[colinodell/AdafruitSerialRGBLCD](https://github.com/colinodell/AdafruitSerialRGBLCD)** ([0.3.0](https://github.com/colinodell/AdafruitSerialRGBLCD/releases/tag/0.3.0), 7 years ago)<br>Firmware library for Adafruit's USB + Serial Backpack Kit with 16x2 RGB LCD
-* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([0.1.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/0.1.0), 8 years ago)<br>Checks whether files have the correct line endings
+* **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([0.1.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/0.1.0), 9 years ago)<br>Checks whether files have the correct line endings
 <!-- recent_releases ends -->
