@@ -42,6 +42,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
 * **[zhammer/pytest-hammertime](https://github.com/zhammer/pytest-hammertime)**
+* **[andrcuns/charts](https://github.com/andrcuns/charts)**
 * **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
