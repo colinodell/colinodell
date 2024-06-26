@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
 * **[andrcuns/charts](https://github.com/andrcuns/charts)**
 * **[zhammer/pytest-hammertime](https://github.com/zhammer/pytest-hammertime)**
-* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
+* **[AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin)**
 <!-- recent_contributions ends -->
 
 ### From my blog
