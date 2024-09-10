@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/buildkit-prestop-script](https://github.com/seatgeek/buildkit-prestop-script)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
 * **[andrcuns/charts](https://github.com/andrcuns/charts)**
-* **[moby/buildkit](https://github.com/moby/buildkit)**
 <!-- recent_contributions ends -->
 
 ### From my blog
