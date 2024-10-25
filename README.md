@@ -25,7 +25,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%402.0.0), 3 weeks ago)<br>SeatGeek Backstage Plugins Collection
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-entity-scaffolder-content@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-entity-scaffolder-content%401.2.0), 4 weeks ago)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-entity-scaffolder-content@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-entity-scaffolder-content%401.2.0), 1 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.5.3](https://github.com/thephpleague/commonmark/releases/tag/2.5.3), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.5.2](https://github.com/thephpleague/commonmark/releases/tag/2.5.2), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 9 months ago)<br>UTF-8 compatible JSON5 parser for PHP
