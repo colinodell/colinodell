@@ -41,9 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
 * **[olekukonko/tablewriter](https://github.com/olekukonko/tablewriter)**
-* **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)**
 <!-- recent_contributions ends -->
 
 ### From my blog
