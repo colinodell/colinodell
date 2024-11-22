@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)**
 * **[olekukonko/tablewriter](https://github.com/olekukonko/tablewriter)**
 <!-- recent_contributions ends -->
