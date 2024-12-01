@@ -38,12 +38,12 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
-* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[dnaeon/go-vcr](https://github.com/dnaeon/go-vcr)**
 <!-- recent_contributions ends -->
 
 ### From my blog
