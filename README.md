@@ -25,7 +25,7 @@ More [projects](https://www.colinodell.com/projects)
 
 <!-- recent_releases starts -->
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.1), 1 weeks ago)<br>SeatGeek Backstage Plugins Collection
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 1 weeks ago)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 2 weeks ago)<br>SeatGeek Backstage Plugins Collection
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.5.3](https://github.com/thephpleague/commonmark/releases/tag/2.5.3), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.5.2](https://github.com/thephpleague/commonmark/releases/tag/2.5.2), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 10 months ago)<br>UTF-8 compatible JSON5 parser for PHP
@@ -41,9 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[colinodell/advent-2024](https://github.com/colinodell/advent-2024)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
 * **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
-* **[dnaeon/go-vcr](https://github.com/dnaeon/go-vcr)**
 <!-- recent_contributions ends -->
 
 ### From my blog
