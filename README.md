@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/advent-2024](https://github.com/colinodell/advent-2024)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
-* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 <!-- recent_contributions ends -->
 
 ### From my blog
