@@ -38,8 +38,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/advent-2024](https://github.com/colinodell/advent-2024)**
 * **[colinodell/json5](https://github.com/colinodell/json5)**
