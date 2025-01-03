@@ -39,8 +39,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[colinodell/advent-2024](https://github.com/colinodell/advent-2024)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[colinodell/advent-2024](https://github.com/colinodell/advent-2024)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-prestop-script](https://github.com/seatgeek/buildkit-prestop-script)**
 <!-- recent_contributions ends -->
