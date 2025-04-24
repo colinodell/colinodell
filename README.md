@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/scm-engine](https://github.com/seatgeek/scm-engine)**
 * **[charmbracelet/huh](https://github.com/charmbracelet/huh)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[colinodell/colinodell](https://github.com/colinodell/colinodell)**
 <!-- recent_contributions ends -->
 
 ### From my blog
