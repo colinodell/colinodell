@@ -24,9 +24,9 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.2](https://github.com/seatgeek/mailroom/releases/tag/v0.3.2), today)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.6.2](https://github.com/thephpleague/commonmark/releases/tag/2.6.2), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.1](https://github.com/seatgeek/mailroom/releases/tag/v0.3.1), 3 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.0](https://github.com/seatgeek/mailroom/releases/tag/v0.3.0), 4 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.6.1](https://github.com/thephpleague/commonmark/releases/tag/2.6.1), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.1), 5 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 5 months ago)<br>SeatGeek Backstage Plugins Collection
