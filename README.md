@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[DataDog/orchestrion](https://github.com/DataDog/orchestrion)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[seatgeek/scm-engine](https://github.com/seatgeek/scm-engine)**
 <!-- recent_contributions ends -->
 
