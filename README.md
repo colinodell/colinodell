@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[DataDog/orchestrion](https://github.com/DataDog/orchestrion)**
 * **[kubernetes/enhancements](https://github.com/kubernetes/enhancements)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[colinodell/json5](https://github.com/colinodell/json5)**
 <!-- recent_contributions ends -->
 
 ### From my blog
