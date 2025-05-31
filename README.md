@@ -38,12 +38,12 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[DataDog/orchestrion](https://github.com/DataDog/orchestrion)**
-* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
-* **[seatgeek/scm-engine](https://github.com/seatgeek/scm-engine)**
+* **[kubernetes/enhancements](https://github.com/kubernetes/enhancements)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
