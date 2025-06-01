@@ -31,7 +31,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.1), 6 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 6 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 1 years ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 1 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
+* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 2 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
