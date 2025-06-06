@@ -24,7 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.3](https://github.com/seatgeek/mailroom/releases/tag/v0.3.3), 2 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.3](https://github.com/seatgeek/mailroom/releases/tag/v0.3.3), 3 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.2](https://github.com/seatgeek/mailroom/releases/tag/v0.3.2), 1 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.6.2](https://github.com/thephpleague/commonmark/releases/tag/2.6.2), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
