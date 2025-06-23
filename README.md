@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[DataDog/orchestrion](https://github.com/DataDog/orchestrion)**
+* **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[kubernetes/enhancements](https://github.com/kubernetes/enhancements)**
-* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
 ### From my blog
