@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), today)<br>Python API for obtaining QNAP NAS system stats
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.4.0](https://github.com/seatgeek/mailroom/releases/tag/v0.4.0), 1 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.3](https://github.com/seatgeek/mailroom/releases/tag/v0.3.3), 1 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.1), 7 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 7 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 1 years ago)<br>UTF-8 compatible JSON5 parser for PHP
-* **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 2 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 

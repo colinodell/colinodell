@@ -3,6 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), today)<br>Python API for obtaining QNAP NAS system stats
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.4.0](https://github.com/seatgeek/mailroom/releases/tag/v0.4.0), 1 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.3](https://github.com/seatgeek/mailroom/releases/tag/v0.3.3), 1 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -28,7 +29,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 4 years ago)<br>Super tiny HTTP server that always returns the same response
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 4 years ago)<br>Simple command line utility to check the status of an SSL certificate
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 4 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.4.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.4.0), 4 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 4 years ago)<br>Zero-amount payment driver for Omnipay
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 4 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 4 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
