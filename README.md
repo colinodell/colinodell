@@ -41,9 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
+* **[seatgeek/fastly-operator](https://github.com/seatgeek/fastly-operator)**
 * **[renovatebot/renovate](https://github.com/renovatebot/renovate)**
 * **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
-* **[kubernetes/enhancements](https://github.com/kubernetes/enhancements)**
 <!-- recent_contributions ends -->
 
 ### From my blog
