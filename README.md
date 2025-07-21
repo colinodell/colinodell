@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/fastly-operator](https://github.com/seatgeek/fastly-operator)**
 * **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
-* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 <!-- recent_contributions ends -->
 
 ### From my blog
