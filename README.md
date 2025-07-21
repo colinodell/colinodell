@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/fastly-operator](https://github.com/seatgeek/fastly-operator)**
 * **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
-* **[colinodell/urban-palm-tree](https://github.com/colinodell/urban-palm-tree)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 <!-- recent_contributions ends -->
 
 ### From my blog
