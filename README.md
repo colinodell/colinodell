@@ -24,7 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), 4 weeks ago)<br>Python API for obtaining QNAP NAS system stats
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.4.0](https://github.com/seatgeek/mailroom/releases/tag/v0.4.0), 1 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.3.3](https://github.com/seatgeek/mailroom/releases/tag/v0.3.3), 2 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
