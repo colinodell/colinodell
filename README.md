@@ -31,7 +31,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 3 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.1), 9 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@1.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%401.1.0), 9 months ago)<br>SeatGeek Backstage Plugins Collection
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 1 years ago)<br>UTF-8 compatible JSON5 parser for PHP
+* **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 2 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
