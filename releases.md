@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 6 days ago)<br>SeatGeek Backstage Plugins Collection
@@ -16,6 +16,9 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.1](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.1), 2 years ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.2.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.2.0), 2 years ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 3 years ago)<br>UTF-8 compatible JSON5 parser for PHP
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 3 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 3 years ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 3 years ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 3 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 3 years ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 3 years ago)<br>PHP library to detect and manipulate indentation of strings and files
@@ -25,6 +28,7 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.2](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.2), 4 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/static-response-server](https://github.com/colinodell/static-response-server)** ([v1.0.0](https://github.com/colinodell/static-response-server/releases/tag/v1.0.0), 4 years ago)<br>Super tiny HTTP server that always returns the same response
 * **[colinodell/go-check-ssl](https://github.com/colinodell/go-check-ssl)** ([v0.2.0](https://github.com/colinodell/go-check-ssl/releases/tag/v0.2.0), 4 years ago)<br>Simple command line utility to check the status of an SSL certificate
+* **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.1.1](https://github.com/thephpleague/config/releases/tag/v1.1.1), 4 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0.0](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0.0), 4 years ago)<br>Zero-amount payment driver for Omnipay
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.2.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.2.0), 5 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
 * **[colinodell/ansible-role-prtg-mini-probe](https://github.com/colinodell/ansible-role-prtg-mini-probe)** ([v0.1.0](https://github.com/colinodell/ansible-role-prtg-mini-probe/releases/tag/v0.1.0), 5 years ago)<br>Installs the PRTG Mini Probe onto Debian-based systems.
@@ -32,6 +36,7 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.52.1](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.52.1), 5 years ago)<br>Home Assistant images for Docker using the dev branch of openzwave
 * **[colinodell/home-assistant-ozwdev](https://github.com/colinodell/home-assistant-ozwdev)** ([0.51.0](https://github.com/colinodell/home-assistant-ozwdev/releases/tag/0.51.0), 5 years ago)<br>Home Assistant images for Docker using the dev branch of openzwave
 * **[colinodell/franz-twitch](https://github.com/colinodell/franz-twitch)** ([1.0.0](https://github.com/colinodell/franz-twitch/releases/tag/1.0.0), 5 years ago)<br>Twitch recipe for Franz 5
+* **[colinodell/packagist-download-counter](https://github.com/colinodell/packagist-download-counter)** ([1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0), 5 years ago)<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
 * **[colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)** ([1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0), 5 years ago)<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0), 5 years ago)<br>Useful extensions for the league/commonmark parser
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 6 years ago)<br>The table extension for CommonMark PHP implementation
