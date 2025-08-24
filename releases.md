@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 1 weeks ago)<br>SeatGeek Backstage Plugins Collection
+* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 2 weeks ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 3 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.5.0](https://github.com/seatgeek/mailroom/releases/tag/v0.5.0), 1 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), 1 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
