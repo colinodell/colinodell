@@ -38,11 +38,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)**
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 <!-- recent_contributions ends -->
 
 ### From my blog
