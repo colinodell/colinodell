@@ -38,11 +38,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
-* **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)**
+* **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
+* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
 ### From my blog
