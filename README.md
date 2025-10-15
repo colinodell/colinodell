@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
+* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 * **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
-* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
 ### From my blog
