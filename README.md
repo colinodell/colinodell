@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[dotnet/sdk](https://github.com/dotnet/sdk)**
 * **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
-* **[slackapi/bolt-js](https://github.com/slackapi/bolt-js)**
 <!-- recent_contributions ends -->
 
 ### From my blog
