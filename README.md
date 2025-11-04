@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), today)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.0), 2 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 3 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 3 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), 4 months ago)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 6 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 2 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
