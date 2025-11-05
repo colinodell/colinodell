@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[dotnet/sdk](https://github.com/dotnet/sdk)**
-* **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
 <!-- recent_contributions ends -->
 
 ### From my blog
