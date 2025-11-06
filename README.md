@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
-* **[dotnet/sdk](https://github.com/dotnet/sdk)**
 <!-- recent_contributions ends -->
 
 ### From my blog
