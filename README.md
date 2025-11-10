@@ -24,7 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 5 days ago)<br>PSR-3 compliant test logger based on psr/log v1's
+* **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 6 days ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.0), 2 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 3 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 3 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
