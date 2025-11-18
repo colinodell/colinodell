@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 <!-- recent_contributions ends -->
 
 ### From my blog
