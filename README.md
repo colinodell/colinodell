@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.0](https://github.com/thephpleague/commonmark/releases/tag/2.8.0), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 3 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.0), 3 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-gitlab-catalog-backend@1.2.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-gitlab-catalog-backend%401.2.0), 4 months ago)<br>SeatGeek Backstage Plugins Collection
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.5.0](https://github.com/seatgeek/mailroom/releases/tag/v0.5.0), 4 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), 4 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), 5 months ago)<br>Python API for obtaining QNAP NAS system stats
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.0](https://github.com/thephpleague/commonmark/releases/tag/2.7.0), 7 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
