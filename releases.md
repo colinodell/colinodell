@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 3 weeks ago)<br>PSR-3 compliant test logger based on psr/log v1's
@@ -42,9 +42,11 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 6 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 6 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 6 years ago)<br>Useful extensions for the league/commonmark parser
+* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 7 years ago)<br>phpcs sniffs for Magento
 * **[phpversions/phpversions.info](https://github.com/phpversions/phpversions.info)** ([0.8.0](https://github.com/phpversions/phpversions.info/releases/tag/0.8.1), 7 years ago)<br>Which hosts support which PHP versions, and which is default
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v2.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v2.0.0), 7 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
 * **[colinodell/gulp-eol-enforce](https://github.com/colinodell/gulp-eol-enforce)** ([1.0.0](https://github.com/colinodell/gulp-eol-enforce/releases/tag/1.0.0), 7 years ago)<br>Checks whether files have the correct line endings
+* **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v1.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v1.0.0), 7 years ago)<br>phpcs sniffs for Magento
 * **[colinodell/omnipay-zero](https://github.com/colinodell/omnipay-zero)** ([v3.0-beta.1](https://github.com/colinodell/omnipay-zero/releases/tag/v3.0-beta.1), 8 years ago)<br>Zero-amount payment driver for Omnipay
 * **[colinodell/omnipay-bundle](https://github.com/colinodell/omnipay-bundle)** ([v1.0.0](https://github.com/colinodell/omnipay-bundle/releases/tag/v1.0.0), 8 years ago)<br>Omnipay bundle for Symfony 2.3+ and 3.0+
 * **[colinodell/migrations-php5.3](https://github.com/colinodell/migrations-php5.3)** ([v1.2.2](https://github.com/colinodell/migrations-php5.3/releases/tag/v1.2.2), 8 years ago)<br>Doctrine Database Migrations Library
