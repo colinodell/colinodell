@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
+* **[colinodell/advent-2025](https://github.com/colinodell/advent-2025)**
 * **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 <!-- recent_contributions ends -->
 
 ### From my blog
