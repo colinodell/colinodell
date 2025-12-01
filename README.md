@@ -38,12 +38,12 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
-* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 <!-- recent_contributions ends -->
 
 ### From my blog
