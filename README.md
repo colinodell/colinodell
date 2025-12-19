@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[colinodell/advent-2025](https://github.com/colinodell/advent-2025)**
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)**
 * **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
-* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 <!-- recent_contributions ends -->
 
 ### From my blog
