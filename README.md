@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[colinodell/advent-2025](https://github.com/colinodell/advent-2025)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
