@@ -3,6 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.17.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.17.0), today)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.1), 2 weeks ago)<br>SeatGeek Backstage Plugins Collection
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.0](https://github.com/thephpleague/commonmark/releases/tag/2.8.0), 2 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 3 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
@@ -18,7 +19,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 3 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 3 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([Version 0.16.1](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.1), 3 years ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.0), 4 years ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 4 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 4 years ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 4 years ago)<br>PHP library to detect and manipulate indentation of strings and files
