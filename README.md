@@ -41,9 +41,9 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
+* **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
 * **[yarnpkg/berry](https://github.com/yarnpkg/berry)**
 * **[yarnpkg/yarn](https://github.com/yarnpkg/yarn)**
-* **[kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental)**
 <!-- recent_contributions ends -->
 
 ### From my blog
