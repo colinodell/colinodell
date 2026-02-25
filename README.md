@@ -40,10 +40,10 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seeraven/gitcache](https://github.com/seeraven/gitcache)**
 * **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
-* **[yarnpkg/berry](https://github.com/yarnpkg/berry)**
 <!-- recent_contributions ends -->
 
 ### From my blog
