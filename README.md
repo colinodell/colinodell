@@ -38,8 +38,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seeraven/gitcache](https://github.com/seeraven/gitcache)**
