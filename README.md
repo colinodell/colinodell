@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seeraven/gitcache](https://github.com/seeraven/gitcache)**
-* **[DataDog/datadog-api-client-python](https://github.com/DataDog/datadog-api-client-python)**
 <!-- recent_contributions ends -->
 
 ### From my blog
