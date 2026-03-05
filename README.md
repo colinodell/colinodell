@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.1](https://github.com/thephpleague/commonmark/releases/tag/2.8.1), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 1 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.17.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.17.0), 1 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.1), 2 months ago)<br>SeatGeek Backstage Plugins Collection
@@ -31,18 +32,18 @@ More [projects](https://www.colinodell.com/projects)
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 4 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.0), 6 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 7 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.7.1](https://github.com/thephpleague/commonmark/releases/tag/2.7.1), 8 months ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seeraven/gitcache](https://github.com/seeraven/gitcache)**
+* **[colinodell/dotfiles](https://github.com/colinodell/dotfiles)**
 <!-- recent_contributions ends -->
 
 ### From my blog
