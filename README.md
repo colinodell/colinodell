@@ -42,7 +42,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[seeraven/gitcache](https://github.com/seeraven/gitcache)**
+* **[jippi/dottie](https://github.com/jippi/dottie)**
 <!-- recent_contributions ends -->
 
 ### From my blog
