@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.2](https://github.com/thephpleague/commonmark/releases/tag/2.8.2), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.2](https://github.com/thephpleague/commonmark/releases/tag/2.8.2), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.1](https://github.com/thephpleague/commonmark/releases/tag/2.8.1), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 4 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.17.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.17.0), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
