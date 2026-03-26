@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.2](https://github.com/thephpleague/commonmark/releases/tag/2.8.2), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.2](https://github.com/thephpleague/commonmark/releases/tag/2.8.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.1](https://github.com/thephpleague/commonmark/releases/tag/2.8.1), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 4 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.17.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.17.0), 2 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
@@ -39,7 +39,7 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[colinodell/packagist-download-counter](https://github.com/colinodell/packagist-download-counter)** ([1.0.0](https://github.com/colinodell/packagist-download-counter/releases/tag/1.0.0), 5 years ago)<br>https://www.hackster.io/colinodell/packagist-download-counter-e1a263
 * **[colinodell/mqtt-control-panel](https://github.com/colinodell/mqtt-control-panel)** ([1.0.0](https://github.com/colinodell/mqtt-control-panel/releases/tag/1.0.0), 6 years ago)<br>A simple alarm control panel for Home Assistant's manual_mqtt alarm. Designed to run on a Raspberry Pi using an Adafruit 3.5" PiTFT.
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.2.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.2.0), 6 years ago)<br>Useful extensions for the league/commonmark parser
-* **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 6 years ago)<br>The table extension for CommonMark PHP implementation
+* **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.1.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.1.0), 7 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-ext-table](https://github.com/thephpleague/commonmark-ext-table)** ([v2.0.0](https://github.com/thephpleague/commonmark-ext-table/releases/tag/v2.0.0), 7 years ago)<br>The table extension for CommonMark PHP implementation
 * **[thephpleague/commonmark-extras](https://github.com/thephpleague/commonmark-extras)** ([1.1.0](https://github.com/thephpleague/commonmark-extras/releases/tag/1.1.0), 7 years ago)<br>Useful extensions for the league/commonmark parser
 * **[colinodell/phpcs-magento](https://github.com/colinodell/phpcs-magento)** ([v2.0.0](https://github.com/colinodell/phpcs-magento/releases/tag/v2.0.0), 7 years ago)<br>phpcs sniffs for Magento
