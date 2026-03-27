@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.18.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.18.0), today)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.2](https://github.com/thephpleague/commonmark/releases/tag/2.8.2), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.8.1](https://github.com/thephpleague/commonmark/releases/tag/2.8.1), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 4 weeks ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.1](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.1), 2 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 5 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.0), 7 months ago)<br>SeatGeek Backstage Plugins Collection
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 8 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
