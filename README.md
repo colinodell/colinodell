@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[jippi/dottie](https://github.com/jippi/dottie)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
-* **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
 <!-- recent_contributions ends -->
 
 ### From my blog
