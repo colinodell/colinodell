@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[jippi/dottie](https://github.com/jippi/dottie)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[warpdotdev/warp](https://github.com/warpdotdev/warp)**
 * **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
+* **[warpdotdev/warp](https://github.com/warpdotdev/warp)**
 <!-- recent_contributions ends -->
 
 ### From my blog
