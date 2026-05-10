@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[jippi/dottie](https://github.com/jippi/dottie)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
-* **[warpdotdev/warp](https://github.com/warpdotdev/warp)**
+* **[jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)**
 <!-- recent_contributions ends -->
 
 ### From my blog
