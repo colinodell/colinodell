@@ -41,8 +41,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
-* **[DataDog/schema](https://github.com/DataDog/schema)**
 * **[DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go)**
+* **[DataDog/schema](https://github.com/DataDog/schema)**
 * **[dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py)**
 <!-- recent_contributions ends -->
 
