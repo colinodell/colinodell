@@ -43,7 +43,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
 * **[DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go)**
 * **[DataDog/schema](https://github.com/DataDog/schema)**
-* **[dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py)**
+* **[jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)**
 <!-- recent_contributions ends -->
 
 ### From my blog
