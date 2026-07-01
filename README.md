@@ -38,12 +38,12 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
-* **[DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)**
 * **[DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go)**
 * **[DataDog/schema](https://github.com/DataDog/schema)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
