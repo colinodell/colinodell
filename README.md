@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
 * **[DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go)**
 * **[DataDog/schema](https://github.com/DataDog/schema)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 <!-- recent_contributions ends -->
 
 ### From my blog
