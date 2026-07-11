@@ -38,8 +38,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### Recent contributions
 
 <!-- recent_contributions starts -->
-* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
+* **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
 * **[DataDog/datadog-api-client-go](https://github.com/DataDog/datadog-api-client-go)**
 <!-- recent_contributions ends -->
