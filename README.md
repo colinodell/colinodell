@@ -40,7 +40,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
 <!-- recent_contributions ends -->
 
 ### From my blog
