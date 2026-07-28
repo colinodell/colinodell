@@ -45,7 +45,11 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 ### From my blog
 
 <!-- blog starts -->
-
+* [Resilient Container Builds in CI with Buildkit-Operator](https://chairnerd.seatgeek.com/resilient-builds-with-buildkit-operator/) - 2025-08-22
+* [Optimizing GitLab CI Runners on Kubernetes: Caching, Autoscaling, and Beyond](https://chairnerd.seatgeek.com/ci-runner-optimizations/) - 2025-01-21
+* [Building Containers on Kubernetes with Buildkit](https://chairnerd.seatgeek.com/building-containers-on-kubernetes-with-buildkit/) - 2024-12-31
+* [Introducing Mailroom: An Open-Source Internal Notification Framework](https://chairnerd.seatgeek.com/mailroom-notification-framework/) - 2024-12-09
+* [DIY "On Air" light automation for Google Meet](https://www.colinodell.com/blog/2022/diy-on-air-light-automation-google-meet-chrome-extension/) - 2022-07-03
 <!-- blog ends -->
 More on [colinodell.com](https://www.colinodell.com/)
 
