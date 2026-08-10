@@ -24,8 +24,8 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.9.1](https://github.com/thephpleague/commonmark/releases/tag/2.9.1), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.9.0](https://github.com/thephpleague/commonmark/releases/tag/2.9.0), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.9.1](https://github.com/thephpleague/commonmark/releases/tag/2.9.1), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.9.0](https://github.com/thephpleague/commonmark/releases/tag/2.9.0), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.2), 2 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@2.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%402.1.0), 4 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.2](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.2), 4 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
@@ -40,6 +40,7 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/commonmark-babelmark2](https://github.com/colinodell/commonmark-babelmark2)**
 <!-- recent_contributions ends -->
 
