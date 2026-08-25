@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
-* **[thephpleague/color-extractor](https://github.com/thephpleague/color-extractor)**
 <!-- recent_contributions ends -->
 
 ### From my blog
