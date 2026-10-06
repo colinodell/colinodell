@@ -24,6 +24,7 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.3), today)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.3](https://github.com/thephpleague/commonmark/releases/tag/2.10.3), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.2](https://github.com/thephpleague/commonmark/releases/tag/2.10.2), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.2), 4 weeks ago)<br>Convert HTML to Markdown with PHP
@@ -31,7 +32,6 @@ More [projects](https://www.colinodell.com/projects)
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@2.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%402.1.0), 6 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.16.2](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.16.2), 6 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
 * **[wayfair-incubator/pygitops](https://github.com/wayfair-incubator/pygitops)** ([v0.18.0](https://github.com/wayfair-incubator/pygitops/releases/tag/v0.18.0), 6 months ago)<br>Wrapper for low-level git logic. Useful for systems automating git operations.
-* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 7 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/colinodell/colinodell/blob/main/releases.md)
 
@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[reddit/achilles-sdk](https://github.com/reddit/achilles-sdk)**
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**
 <!-- recent_contributions ends -->
 
