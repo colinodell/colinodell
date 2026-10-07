@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.3), today)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.3), yesterday)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.3](https://github.com/thephpleague/commonmark/releases/tag/2.10.3), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.2](https://github.com/thephpleague/commonmark/releases/tag/2.10.2), 2 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.2), 4 weeks ago)<br>Convert HTML to Markdown with PHP
