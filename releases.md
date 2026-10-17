@@ -3,6 +3,8 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), today)<br>Python API for obtaining QNAP NAS system stats
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), today)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.4](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.4), 1 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.3), 2 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.3](https://github.com/thephpleague/commonmark/releases/tag/2.10.3), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -14,13 +16,11 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.1](https://github.com/seatgeek/mailroom/releases/tag/v0.6.1), 8 months ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.1](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.1), 12 months ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)** ([v0.6.0](https://github.com/seatgeek/mailroom/releases/tag/v0.6.0), 1 years ago)<br>Framework for creating, routing, and delivering user notifications based on events from external systems
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.0), 1 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v3.0.0](https://github.com/colinodell/json5/releases/tag/v3.0.0), 3 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[colinodell/aoc-downloader](https://github.com/colinodell/aoc-downloader)** ([v0.1.3](https://github.com/colinodell/aoc-downloader/releases/tag/v0.1.3), 3 years ago)<br>PHP-based utility to download all Advent of Code puzzles and inputs
 * **[colinodell/psr-testlogger](https://github.com/colinodell/psr-testlogger)** ([v1.3.0](https://github.com/colinodell/psr-testlogger/releases/tag/v1.3.0), 3 years ago)<br>PSR-3 compliant test logger based on psr/log v1's
 * **[colinodell/json5](https://github.com/colinodell/json5)** ([v2.3.0](https://github.com/colinodell/json5/releases/tag/v2.3.0), 4 years ago)<br>UTF-8 compatible JSON5 parser for PHP
 * **[thephpleague/config](https://github.com/thephpleague/config)** ([v1.2.0](https://github.com/thephpleague/config/releases/tag/v1.2.0), 4 years ago)<br>Simple yet expressive schema-based configuration library for PHP apps
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.5.0](https://github.com/colinodell/python-qnapstats/releases/tag/0.5.0), 4 years ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v1.0.0](https://github.com/colinodell/indentation/releases/tag/v1.0.0), 5 years ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/indentation](https://github.com/colinodell/indentation)** ([v0.1.0](https://github.com/colinodell/indentation/releases/tag/v0.1.0), 5 years ago)<br>PHP library to detect and manipulate indentation of strings and files
 * **[colinodell/mutesync-streamdeck-plugin](https://github.com/colinodell/mutesync-streamdeck-plugin)** ([v0.1.0](https://github.com/colinodell/mutesync-streamdeck-plugin/releases/tag/v0.1.0), 5 years ago)<br>Unofficial integration to control the mutesync virtual button with the Elgato Stream Deck
