@@ -24,12 +24,12 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.4](https://github.com/thephpleague/commonmark/releases/tag/2.10.4), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), today)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), today)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.4](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.4), 1 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.1.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.1.3), 2 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.3](https://github.com/thephpleague/commonmark/releases/tag/2.10.3), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.2](https://github.com/thephpleague/commonmark/releases/tag/2.10.2), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.2), 4 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@2.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%402.1.0), 6 months ago)<br>SeatGeek Backstage Plugins Collection
 <!-- recent_releases ends -->
