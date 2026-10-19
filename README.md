@@ -26,9 +26,9 @@ More [projects](https://www.colinodell.com/projects)
 <!-- recent_releases starts -->
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), today)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), today)<br>Convert HTML to Markdown with PHP
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.4](https://github.com/thephpleague/commonmark/releases/tag/2.10.4), yesterday)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), yesterday)<br>Python API for obtaining QNAP NAS system stats
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), yesterday)<br>Python API for obtaining QNAP NAS system stats
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.4](https://github.com/thephpleague/commonmark/releases/tag/2.10.4), 2 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), 2 days ago)<br>Python API for obtaining QNAP NAS system stats
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), 2 days ago)<br>Python API for obtaining QNAP NAS system stats
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.3](https://github.com/thephpleague/commonmark/releases/tag/2.10.3), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.2), 4 months ago)<br>SeatGeek Backstage Plugins Collection
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-slack-catalog-backend@2.1.0](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-slack-catalog-backend%402.1.0), 6 months ago)<br>SeatGeek Backstage Plugins Collection
@@ -40,8 +40,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
-* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
+* **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 <!-- recent_contributions ends -->
 
