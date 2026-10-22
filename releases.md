@@ -3,8 +3,8 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), 2 days ago)<br>Convert HTML to Markdown with PHP
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), 2 days ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), 3 days ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), 3 days ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.4](https://github.com/thephpleague/commonmark/releases/tag/2.10.4), 4 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), 4 days ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), 4 days ago)<br>Python API for obtaining QNAP NAS system stats
