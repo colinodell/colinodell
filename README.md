@@ -24,8 +24,8 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.7](https://github.com/thephpleague/commonmark/releases/tag/2.10.7), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.6](https://github.com/thephpleague/commonmark/releases/tag/2.10.6), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.7](https://github.com/thephpleague/commonmark/releases/tag/2.10.7), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.6](https://github.com/thephpleague/commonmark/releases/tag/2.10.6), 1 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), 3 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), 3 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), 3 weeks ago)<br>Python API for obtaining QNAP NAS system stats
@@ -39,8 +39,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 
 <!-- recent_contributions starts -->
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)**
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
