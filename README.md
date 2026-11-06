@@ -27,7 +27,7 @@ More [projects](https://www.colinodell.com/projects)
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.7](https://github.com/thephpleague/commonmark/releases/tag/2.10.7), 5 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.6](https://github.com/thephpleague/commonmark/releases/tag/2.10.6), 6 days ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), 2 weeks ago)<br>Convert HTML to Markdown with PHP
-* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), 2 weeks ago)<br>Convert HTML to Markdown with PHP
+* **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.2](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.2), 3 weeks ago)<br>Convert HTML to Markdown with PHP
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.2](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.2), 3 weeks ago)<br>Python API for obtaining QNAP NAS system stats
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)** ([0.6.1](https://github.com/colinodell/python-qnapstats/releases/tag/0.6.1), 3 weeks ago)<br>Python API for obtaining QNAP NAS system stats
 * **[seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins)** ([@seatgeek/backstage-plugin-scaffolder-backend-module-hcl@2.0.2](https://github.com/seatgeek/backstage-plugins/releases/tag/%40seatgeek/backstage-plugin-scaffolder-backend-module-hcl%402.0.2), 5 months ago)<br>SeatGeek Backstage Plugins Collection
@@ -42,8 +42,8 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[thephpleague/config](https://github.com/thephpleague/config)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
 * **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
-* **[seatgeek/k8s-reconciler-generic](https://github.com/seatgeek/k8s-reconciler-generic)**
 <!-- recent_contributions ends -->
 
 ### From my blog
