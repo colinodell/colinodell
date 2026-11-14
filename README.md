@@ -43,7 +43,6 @@ More [recent releases](https://github.com/colinodell/colinodell/blob/main/releas
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)**
 * **[colinodell/python-qnapstats](https://github.com/colinodell/python-qnapstats)**
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**
-* **[colinodell/google-meet-hass-extension](https://github.com/colinodell/google-meet-hass-extension)**
 <!-- recent_contributions ends -->
 
 ### From my blog
