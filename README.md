@@ -17,7 +17,8 @@ Check out out [my blog](https://www.colinodell.com/blog) or follow me on [Twitte
 * **[league/commonmark](https://commonmark.thephpleague.com/)**: Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs
 * **[json5](https://github.com/colinodell/json5)**: UTF-8 compatible JSON5 parser for PHP
 * **[html-to-markdown](https://github.com/thephpleague/html-to-markdown)**: Convert HTML to Markdown with PHP
-* **[~ModernGeekware.com~](https://www.moderngeekware.com/)**: ~my online store for [developer t-shirts, mugs, and more](https://www.moderngeekware.com/)~
+* **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)**: An operator for managing BuildKit instances on Kubernetes
+* **[seatgeek/mailroom](https://github.com/seatgeek/mailroom)**: Framework for creating, routing, and delivering user notifications based on events from external systems
 
 More [projects](https://www.colinodell.com/projects)
 
