@@ -18,6 +18,7 @@ TOKEN = os.environ.get("COLINODELL_TOKEN", "")
 EXTRA_REPOS = [
     "seatgeek/buildkit-operator",
     "seatgeek/mailroom",
+    "seatgeek/k8s-reconciler-generic",
 ]
 
 
