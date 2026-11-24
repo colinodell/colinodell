@@ -1,4 +1,4 @@
-python-graphql-client==0.3.0
+python-graphql-client==0.4.3
 httpx
 feedparser
 python-dateutil
