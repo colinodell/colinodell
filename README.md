@@ -25,9 +25,9 @@ More [projects](https://www.colinodell.com/projects)
 ### Releases of projects I maintain
 
 <!-- recent_releases starts -->
+* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.8](https://github.com/thephpleague/commonmark/releases/tag/2.10.8), today)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/buildkit-operator](https://github.com/seatgeek/buildkit-operator)** ([v0.8.3](https://github.com/seatgeek/buildkit-operator/releases/tag/v0.8.3), 3 weeks ago)<br>An operator for managing BuildKit instances on Kubernetes
 * **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.7](https://github.com/thephpleague/commonmark/releases/tag/2.10.7), 3 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
-* **[thephpleague/commonmark](https://github.com/thephpleague/commonmark)** ([2.10.6](https://github.com/thephpleague/commonmark/releases/tag/2.10.6), 4 weeks ago)<br>Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 * **[seatgeek/k8s-reconciler-generic](https://github.com/seatgeek/k8s-reconciler-generic)** ([v1.15.1](https://github.com/seatgeek/k8s-reconciler-generic/releases/tag/v1.15.1), 1 months ago)<br>A generic Kubernetes reconciler abstraction based on kubebuilder
 * **[seatgeek/k8s-reconciler-generic](https://github.com/seatgeek/k8s-reconciler-generic)** ([apiobjects/v1.15.1](https://github.com/seatgeek/k8s-reconciler-generic/releases/tag/apiobjects/v1.15.1), 1 months ago)<br>A generic Kubernetes reconciler abstraction based on kubebuilder
 * **[thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)** ([5.2.3](https://github.com/thephpleague/html-to-markdown/releases/tag/5.2.3), 1 months ago)<br>Convert HTML to Markdown with PHP
