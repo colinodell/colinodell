@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/colinodell/colinodell/main/header.png)
+# Colin O'Dell
 
 **Hi, I'm Colin** -- I help accelerate business outcomes by increasing software teams’ efficiency, effectiveness, and empowerment at [@SeatGeek](https://github.com/seatgeek).
 
