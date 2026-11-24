@@ -13,6 +13,12 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("COLINODELL_TOKEN", "")
 
+# viewer.repositories only covers repos I own or am a direct collaborator on,
+# so repos I maintain via org team membership must be listed explicitly.
+EXTRA_REPOS = [
+    "seatgeek/buildkit-operator",
+]
+
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -56,6 +62,28 @@ query {
     )
 
 
+def make_repo_release_query(name_with_owner):
+    owner, name = name_with_owner.split("/")
+    return """
+query {
+  repository(owner: "OWNER", name: "NAME") {
+    name
+    nameWithOwner
+    description
+    url
+    releases(first:2) {
+      totalCount
+      nodes {
+        name
+        publishedAt
+        url
+      }
+    }
+  }
+}
+""".replace("OWNER", owner).replace("NAME", name)
+
+
 def make_contributions_query():
     since = datetime.now() - timedelta(30)
     return """
@@ -75,44 +103,56 @@ query {
 
 
 def fetch_releases(oauth_token):
+    headers = {"Authorization": "Bearer {}".format(oauth_token)}
     repos = []
-    releases = []
-    repo_names = set()
     has_next_page = True
     after_cursor = None
 
     while has_next_page:
         data = client.execute(
             query=make_release_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            headers=headers,
         )
         print()
         print(json.dumps(data, indent=4))
         print()
-        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if repo["releases"]["totalCount"] and repo["nameWithOwner"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["nameWithOwner"])
-                for release in repo["releases"]["nodes"]:
-                    if release["publishedAt"] is None:
-                        continue
-
-                    release_date = parser.parse(release["publishedAt"])
-                    releases.append(
-                        {
-                            "repo": repo["nameWithOwner"],
-                            "repo_url": repo["url"],
-                            "description": repo["description"],
-                            "release": release["name"].replace(repo["name"], "").strip(),
-                            "published_at": release_date.strftime("%Y-%m-%d"),
-                            "published_at_ago": pretty_date(release_date),
-                            "release_url": release["url"],
-                        }
-                    )
+        repos.extend(data["data"]["viewer"]["repositories"]["nodes"])
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
             "hasNextPage"
         ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+
+    for name_with_owner in EXTRA_REPOS:
+        data = client.execute(
+            query=make_repo_release_query(name_with_owner),
+            headers=headers,
+        )
+        print()
+        print(json.dumps(data, indent=4))
+        print()
+        repos.append(data["data"]["repository"])
+
+    releases = []
+    repo_names = set()
+    for repo in repos:
+        if repo["releases"]["totalCount"] and repo["nameWithOwner"] not in repo_names:
+            repo_names.add(repo["nameWithOwner"])
+            for release in repo["releases"]["nodes"]:
+                if release["publishedAt"] is None:
+                    continue
+
+                release_date = parser.parse(release["publishedAt"])
+                releases.append(
+                    {
+                        "repo": repo["nameWithOwner"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"],
+                        "release": release["name"].replace(repo["name"], "").strip(),
+                        "published_at": release_date.strftime("%Y-%m-%d"),
+                        "published_at_ago": pretty_date(release_date),
+                        "release_url": release["url"],
+                    }
+                )
     return releases
 
 
