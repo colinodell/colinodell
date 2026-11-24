@@ -17,6 +17,7 @@ TOKEN = os.environ.get("COLINODELL_TOKEN", "")
 # so repos I maintain via org team membership must be listed explicitly.
 EXTRA_REPOS = [
     "seatgeek/buildkit-operator",
+    "seatgeek/mailroom",
 ]
 
 
