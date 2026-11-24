@@ -2,7 +2,6 @@ from python_graphql_client import GraphqlClient
 from datetime import datetime, timezone, timedelta
 from dateutil import parser
 import feedparser
-import httpx
 import json
 import pathlib
 import re
